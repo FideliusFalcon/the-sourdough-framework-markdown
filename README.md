@@ -1,4 +1,10 @@
-# The Sourdough Framework
+# The Sourdough Framework — Markdown / AI-Friendly Fork
+
+This is a fork of [The Sourdough Framework](https://github.com/hendricius/the-sourdough-framework) that adds an AI-friendly Markdown version of the book. The `markdown/` directory contains the full book converted from LaTeX to clean Markdown, suitable for use as a knowledge base in LLMs, ChatGPT custom GPTs, RAG pipelines, or any context where plain text is preferred over LaTeX/PDF.
+
+See [`markdown/README.md`](markdown/README.md) for details on the converted files, and [`markdown/gpt-system-prompt.md`](markdown/gpt-system-prompt.md) for a ready-to-use ChatGPT "My GPT" system prompt.
+
+---
 
 The sourdough framework is an open-source book dedicated to
 helping you to make the best possible sourdough bread at home.
