@@ -1,0 +1,741 @@
+> You could consider this chapter as an FAQ about most problems faced by
+> bakers, it should give you the debugging tools you need to analyze the
+> situation.  You can then apply the appropriate measures and squash each
+> *bug* one by one until you reach the perfect loaf.
+
+## Starter
+### My starter does not double in size
+
+Some bakers call for the sourdough starter to double in size before using it.
+The idea is to use the sourdough starter at peak performance to ensure a
+balanced fermentation in the main dough.
+
+The doubling in size metric should be taken with a grain of salt when judging
+your starter. Depending on the flour you use to feed the starter, different
+levels of its rising can be expected.  For instance, if you use rye flour then
+only very little gas from the fermentation can be retained inside the starter.
+In consequence, your sourdough starter will not rise as much. It could still
+be in healthy shape. If you use wheat flour with less gluten, the starter will
+not rise as much either. The reason is that you have a weaker gluten network
+resulting in more gas dispersing out of your dough.
+
+That being said, it is recommended that you develop your volume increase
+metric. Your starter will increase in size and then ultimately lose structure
+and collapse. Observe the point before it collapses.  This is the point when
+you should use your starter. This could be a 50% volume
+increase, 100% or 200%. It is always better to
+use the starter a little bit too early rather than too late. If you use the
+starter later, reduce the quantity that you use. If the recipe calls for a
+20% starter quantity, use only 10% starter in
+that case. Your starter will regrow in your main dough.
+
+On top of relying on the size increase, start taking note of your starter's
+smell. Over time you will be able to judge its fermentation state based on the
+smell. The stronger the smell becomes, the further your dough has fermented.
+This is a sign that you should use less starter when making the actual dough.
+
+Please refer to
+the relevant section "sec:readying-starter" for more
+information on the topic.
+
+### What's the best starter feeding ratio?
+
+The best starter feeding ratio is commonly either 1:5:5 or 1:10:10.
+In the case of 1:5:5 that's 1 part old starter,
+5 parts flour and 5 parts water. If you are using a stiff starter,
+use half the amount of water. So that's 1:5:2.5. Depending on when
+you last fed your starter 1:10:10 might make more sense. If the starter
+is old and hasn't been fed recently the 1:10:10 ratio is a better choice.
+By reducing the starter inoculation ratio, you provide the microorganisms
+with a cleaner environment. This way they can reproduce and regrow
+into a more desirable balance to begin your dough fermentation.
+
+Generally, think of your sourdough starter as a dough. Use the same
+ratios you use for your bread dough for your starter. Your starter
+should be trained in the same environment that you later use
+for your dough. This way your starter is perfectly suited to
+ferment the dough into which it is later inoculated.
+
+The only exception to the 1:5:5 and 1:10:10 rule is the initial
+starter set-up stage. For the first days during the starter-making
+process there aren't enough microbes yet. So using a 1:1:1 ratio
+can speed up the process.
+### What's the benefit of using a stiff sourdough starter?
+
+A regular sourdough starter has equal parts of flour and water
+(100% hydration). A stiffer sourdough starter features a
+hydration level of 50–60%.
+
+The stiff sourdough starter boosts the yeast part
+of your starter more. This way your gluten degrades
+slower and you can ferment for a longer period. This
+is especially handy when baking with lower gluten flours.
+
+You can read more about the topic of stiff sourdough
+starters in the relevant section.
+
+### What's the benefit of using a liquid sourdough starter?
+
+The liquid starter will boost anaerobic bacterial
+fermentation in your starter. This way your starter
+tends to produce more lactic acid rather than acetic
+acid. Lactic acid is perceived as milder and more
+yogurty. Acetic acid can sometimes taste quite
+pungent. Acetic acid can be perfect when making
+dark rye bread but not so much when making a fluffy
+ciabatta-style loaf.
+
+When converting your starter to a liquid starter you are
+permanently altering the microbiome of your starter.
+You cannot go back once you have eliminated acetic
+acid-producing bacteria. So it is recommended to keep
+a backup of your original starter.
+
+A downside to the liquid starter is the overall
+enhanced bacterial activity compared to yeast activity. This means the baked bread
+will have more acidity (but milder). The dough will degrade
+faster during fermentation. For this reason, you
+will need to use strong high-gluten flour when using
+this type of starter.
+
+You can read more about the liquid starter in
+the relevant section
+
+### My new starter doesn't rise at all
+
+Make sure that you use unchlorinated water.
+In many areas of the world, tap water has
+chlorine added to kill microorganisms. If that's
+the case in your region, bottled spring water will
+help.
+You can also use a water filter with activated charcoal
+which will remove the chlorine.
+Alternatively, if you draw tap water into a pitcher or other
+container and let it sit, loosely covered, the chlorine
+should dissipate within 12–24 hours, and you have
+the added advantage of automatically having
+room-temperature water.
+
+Make sure to use whole grain flour (whole-wheat, whole-rye, ).
+These flours have more natural wild yeast and
+bacterial contamination. Making a starter
+from just white flour sometimes doesn't work.
+Try to use organic unbleached flour to make
+the starter. Industrial flour can sometimes
+be treated with fungicides.
+
+### I made a starter, it rose on day 3 and now not anymore
+
+This is normal. As your starter is maturing, different
+microorganisms are activated. Especially during
+the first days of the process, bad microbes
+like mold can be activated. These cause your
+starter to rise a lot. With each subsequent
+starter-feeding, you select the microbes that are best
+at fermenting flour. For this reason, it is
+recommended to discard the leftover unused starter
+from the first days of the process. Later on, unneeded
+starter amounts should never be thrown away. You can make
+great discard bread out of it.
+
+So just keep going and don't give up. The first big
+rise is an indicator that you are doing everything
+right. Based on my experience, it takes around 7
+days to grow a starter. As you feed your starter
+more and more, it will become even better at fermenting
+flour. The first bread might not go exactly as you
+planned, but you will get there eventually. Each
+feeding makes your starter stronger and stronger.
+
+### Liquid on top of my starter
+
+Sometimes a liquid, in many cases black liquid, gathers on top
+of your sourdough starter. The liquid might have a pungent
+smell to it. Many people confuse this with mold. I have seen
+bakers recommending to discard the starter because of this liquid.
+The liquid is commonly known as *hooch*. After a while
+of no activity the heavier flour separates from the water. The flour
+will sit at the bottom of your jar and the liquid will stay on top.
+The liquid turns darker because some particles of the flour weigh
+less than the water and float on top. Furthermore dead microorganisms
+float in this liquid. This liquid is not a bad thing; it's actively
+protecting your sourdough starter from aerobic mold entering through
+the top.
+
+
+![](images/sourdough-starter-hooch)
+
+
+Simply stir your sourdough starter to homogenize the hooch back into your
+starter. The hooch will disappear. Then use a little bit of your sourdough
+starter to set up the starter for your next bread.  Once hooch appears, your
+starter has likely fermented for a long period of time. It might be very sour.
+This state of starter is excellent to make discard crackers or a discard
+bread. Don't throw anything away. Your hooch is a sign that you have a long
+fermented dough in front of you. Compare it to a two year ripened Parmigiano
+cheese.  The dough in front of you is full of delicious flavor.
+
+### Fixing a moldy sourdough starter
+
+First of all, making a moldy sourdough starter is very difficult.
+It's an indicator that something might be completely off in your starter.
+Normally the symbiosis of yeast and bacteria does not allow external
+pathogens such as mold to enter your sourdough starter.
+The low pH created by the bacteria is a very hostile environment
+that no other pathogens like. Generally everything below a pH
+of 4.2 can be considered food safe [food safe ph]. This
+is the concept of pickled foods. And your sourdough bread
+is essentially pickled bread.
+
+I have seen this happening especially when the sourdough
+starter is relatively young. Each flour naturally contains
+mold spores. When beginning a sourdough starter, all
+the microorganisms start to compete by metabolizing the
+flour. Mold can sometimes win the race and outcompete
+the natural wild yeast and bacteria. In that case simply
+try cultivating your sourdough starter again. If mold reappears
+again, it might be a very moldy batch of flour. Try a different
+flour to begin your sourdough starter with.
+
+Mature sourdough starters should not go moldy unless the conditions
+of the starter change. I have seen mold appearing when the starter is stored
+in the fridge and the surface dried out. It also sometimes forms on the
+edges of your starter's container, typically in areas where no active
+starter microorganisms can reach. Simply try to extract an
+area of your starter that has no mold. Feed it again with flour and
+water. After a few feedings, your starter should be back to normal.
+Take only a tiny bit of starter: 1–2 are enough. They already
+contain millions of microorganisms.
+
+Mold favors aerobic conditions. This means that air is required in order
+for the mold fungus to grow. Another technique that has worked for me
+was to convert my sourdough starter into a liquid starter. This successfully
+shifted my starter from acetic acid production to lactic acid production.
+Acetic acid, similarly to mold, requires oxygen to be produced. After
+submerging the flour with water, over time the lactic acid bacteria
+outcompeted the acetic acid bacteria. This is a similar concept to pickled
+foods. By doing this you are essentially killing all live mold fungi. You
+might only have some spores left. With each feeding the spores will become
+fewer and fewer. Furthermore, it seems that lactic acid bacteria produce
+metabolites that inhibit mold growth [mold lactic acid bacteria].
+
+
+![The
+      interaction of lactic acid bacteria and mold fungi.
+      In [mold lactic acid bacteria],
+      mold+lactic+acid+bacteria et al.\ show how bacteria are
+      producing metabolites that inhibit fungus growth.](images/fungi-lactic-acid-interactions)
+
+*The
+      interaction of lactic acid bacteria and mold fungi.
+      In [mold lactic acid bacteria],
+      mold+lactic+acid+bacteria et al.\ show how bacteria are
+      producing metabolites that inhibit fungus growth.*
+
+
+To pickle your starter, simply take a bit of your existing starter (5 g for
+instance). Then feed the mixture with 20 g of flour and 100 g of water. You have
+created a starter with a hydration of around 500%. Shake the mixture vigorously.
+After a few hours you should start seeing most of the flour near the bottom
+of your container. After a while most of the oxygen from the bottom mixture
+is depleted and anaerobic lactic acid bacteria will start to thrive. Take a
+note of the smell your sourdough starter. If it was previously acetic
+it will now change to be a lot more dairy. Extract a bit of your mixture the
+next day by shaking everything first. Take 5 g of the previous mixture, feed
+again with another 20 g of flour and another 100 g of water. After 2–3
+additional feedings your starter should have adapted. When switching back
+to a hydration of 100% the mold should have been eliminated. Please note that
+more tests should be conducted on this topic. It would be nice to really
+carefully analyze the microorganisms before the pickling and after.
+
+### My sourdough starter is too sour
+
+If your sourdough starter is too sour it will cause problems during
+the fermentation. Your fermentation will have more
+bacterial activity than yeast activity. This means
+you will likely create a more tangy loaf which isn't
+as fluffy as it could be. The goal is to reach the right
+balance: Fluffy consistency from the yeast and a great,
+not-too-strong tang from the bacteria. This depends
+of course on what you are looking for in terms of taste
+in your bread. When making rye bread, I prefer to be more
+on the tangy side for instance. When the described balance
+is off, the first thing to check is your sourdough starter.
+
+Note the smell of your starter. Does it smell very sour?
+Taste a bit of your starter too. How sour does it taste?
+Over time, every starter becomes more and more sour the longer
+you wait. But sometimes your starter becomes sour too fast.
+In this case apply daily feedings to your starter. Reduce
+the amount of old starter that you use to feed. A ratio
+of 1:5:5 or 1:10:10 can do wonders. In this case you would
+take 1 part of starter (10 g) and feed it with 50 g of flour
+and 50 g of water. This way the microorganisms start
+the fermentation in a greenfield environment. This is
+similar to the 10% starter or  20% starter
+ratio that you use to make a dough. These days I almost
+never use a 1:1:1 ratio. This only makes sense when you
+are initially creating your starter. You want a sour
+environment so that your microorganisms outcompete
+potential pathogens. The acidic environment is toxic
+to most pathogens that you do not want in your starter.
+
+Another approach that can help is to convert your
+sourdough starter into a stiff starter as
+described in the relevant section.
+
+### Why does my starter smell like vinegar or acetone?
+
+Your sourdough starter has likely produced a lot of acetic acid.
+Acetic acid is essential when creating vinegar. Once no additional
+food is left some of your starter's bacteria will consume ethanol
+and convert it into acetic acid. Acetic acid has a very pungent smell.
+When tasting acetic acid, the flavor of your bread is often perceived
+as quite strong.
+
+
+*Oxygen is required to create acetic
+      acid [acetic acid production].*
+
+
+This is nothing bad. But if you would like to change
+the flavor of your final bread, consider converting
+your sourdough starter into a liquid starter. This will
+help to prioritize lactic acid-producing bacteria.
+Your flavor will change to dairy compared to vinegary.
+You can't go back though. After the conversion your starter
+will never go back to acetic acid production because you have
+changed the tides towards primarily lactic acid fermentation.
+I like to have a separate rye starter. In my experiments
+rye starters tend to feature many acetic acid bacteria.
+This starter is excellent when you want to make a very hearty,
+strong-tasting bread. A pure rye bread tastes excellent when
+made with such a starter. The flavor when taking a bite
+is incredible. It nicely plays with soups as well. Just take
+a bit of this bread and dip it in your soup.
+
+### Why does my starter not float after using the float test?
+The float test may not reliably determine your starter's readiness for dough
+inoculation. While it's effective for wheat-based doughs, where ample gas gets
+trapped in the gluten matrix, it's less reliable for non-wheat doughs. In non-
+wheat doughs, the gas generated during fermentation tends to escape, causing
+the starter to likely sink.
+
+For more accurate assessments of your starter's readiness, watch for bubbles
+at the container's edge and consider its aroma. A mature starter should emit a
+mildly sour scent without being overly pungent.
+
+## Dough
+### Should I autolyse my dough?
+
+In 95% of all cases, an autolysis
+makes no sense. Instead I recommend
+that you conduct a fermentolysis. You
+can read more about the autolysis process in
+the relevant section and
+more about the topic of fermentolysis
+in the relevant section.
+
+The fermentolysis combines all the benefits
+of the autolysis while eliminating disadvantages
+such as having to knead the dough multiple times.
+
+The autolysis only makes sense when you might
+bake a fast-fermenting yeast-based dough with a
+high yeast inoculation rate. But even in that
+case you could just lower the amount of yeast
+to fermentolyse rather than autolyse.
+
+### My dough sample (aliquot) doesn't rise. What's wrong?
+
+If you see that your dough rises in size but your aliquot doesn't, chances
+are that both are fermenting at different speeds. This can often
+happen when the temperature in your kitchen changes. The aliquot
+is more susceptible to temperature changes than the main dough.
+Because the sample is smaller in size, it will heat up or cool down
+faster.
+
+For this reason, you must use room-temperature water when
+making your dough. By having the same temperature in both the sample
+and your dough, you make sure that both ferment at the same rate.
+
+If the temperature in your room changes significantly during the day, your
+best option is to use a see-through container. Mark the container to properly
+measure your dough's size increase.
+
+Another option could be to use a more expensive pH meter to measure your
+dough's acidity buildup. You can read more about different ways of managing
+bulk fermentation in the relevant section.
+
+### What's a good level of water (hydration) to make a dough?
+
+Especially when starting to make bread, use lower amounts of water. This will
+greatly simplify the whole process. I recommend using a level of around
+60% hydration. So for every 100 g of flour use
+around 60 g of water.  This ballpark figure will work for most
+flours.  With this hydration, you can make bread, buns, pizzas, and even
+baguettes out of the same dough.
+
+With the lower hydration, dough handling becomes easier and you have more
+yeast fermentation, resulting in lower over-fermentation risk.
+
+### My dough completely tears after a long fermentation
+
+Sometimes when touching your dough after a long fermentation
+it completely tears apart. This could be for two reasons. It might
+be that the bacteria completely consumed the gluten of your flour.
+On the other hand, over time your gluten network automatically
+degrades. This is the protease enzyme converting the gluten
+network into smaller amino acids the seedling can use as
+building blocks for its growth. This process starts to happen
+the moment you mix flour and water. The longer your dough sits,
+the more gluten is broken down. As the gluten holds the
+wheat dough together, your dough will ultimately tear.
+
+
+![My dough tearing after 24 hours of no activity.](images/tearing-dough)
+
+*My dough tearing after 24 hours of no activity.*
+
+
+In the picture  I experimented with
+using a starter that has not been fed for 30 days at room temperature.
+I tried to make a dough directly out of the unfed starter.
+Typically after a long period
+without feedings your microbes start to sporulate and go
+into hibernation mode. This way they can survive for a long
+period of time without extra feedings. Adding additional food
+will activate them again. In this case the dough did not ferment
+fast enough before the protease broke down the gluten. By activating
+your microbes they will start to reproduce and increase in quantity
+for as long as there is food available. But this process
+in my case was not fast enough. After around 24 hours, the whole
+dough just started to completely tear apart. The whole process was further
+accelerated by my using whole-wheat flour. Whole-wheat
+contains more enzymes than white flour.
+
+To fix this, try to make sure that your sourdough starter is lively
+and active. Simply apply a couple more feedings before
+making your dough. This way your dough becomes ready to shape
+before it has completely broken down.
+
+## Bread
+### My bread stays flat
+
+A flat bread is in most cases related to your gluten
+network breaking down fully. This is not bad; this
+means you are eating a fully fermented food. However,
+from a taste and consistency perspective, it might be
+that your bread tastes too sour, or is not fluffy anymore.
+Please also note that you can only make bread with
+great oven spring when making wheat based doughs. When
+starting with this hobby I always wondered why my rye
+breads would turn out so flat. Yes, rye has gluten, but
+small particles called *pentosans* (arabinoxylan and beta-glucan) [rye-defects].
+They prevent the dough from developing a gluten network it can
+with wheat. Your efforts will be in vain, and your dough will
+stay flat. Only spelt- and wheat-based doughs have the capability
+of retaining the CO₂ created by the fermentation.
+
+In most cases something is probably off with your
+sourdough starter. This very often happens when the starter
+is still relatively young and isn't as capable of
+fermenting flour. Over time your sourdough
+starter is going to become better and better.
+Keep your sourdough starter at room temperature
+and then apply daily feedings with a 1:5:5 ratio.
+This would be 1 part old starter, 5 parts flour,
+5 parts water. This allows you to achieve a better
+balance of yeast and bacteria in your sourdough.
+Even better could be the use of a stiff sourdough
+starter. The stiff sourdough starter boosts
+the yeast part of your starter. This allows you
+to have less bacterial fermentation, resulting
+in a stronger gluten network toward the end
+of the fermentation [stiff starter]. Please
+also refer to the Subsection  where
+I explained more about overfermented doughs. You can also
+refer to the relevant section with more details on
+making a stiff sourdough starter.
+
+Furthermore, a stronger flour containing more gluten
+will help you to push the fermentation further. This
+is because your flour contains more gluten and will
+take longer to be broken down by your bacteria. Ultimately,
+if fermented for too long, your dough is also going
+to be broken down and will become sticky and flat.
+
+To debug whether the excess bacterial fermentation is the issue,
+simply taste your dough. Does it taste very sour? If yes,
+that's a good indicator. When working the dough, does it
+suddenly become very sticky after a few hours? That's a
+another good indicator. Please also use your nose to note
+the smell of the dough. It shouldn't be too pungent.
+
+### I want more tang in my bread
+
+To achieve more tang in your sourdough bread, you have
+to ferment your dough for a longer period of time.
+Over time the bacteria will metabolize most of the
+ethanol created by the yeast in your dough. The bacteria
+mostly produce lactic and acetic acid. Lactic acid
+is chemically more acidic than acetic acid but sometimes
+not perceived as sour. In most cases a longer fermentation
+is what you want. You will either need to utilize a loaf
+pan to make your dough or use a flour that can withstand
+a long fermentation period. A flour like this is typically
+called a *strong flour*. Stronger flours tend
+to be from wheat varieties that have be grown in more
+sunny conditions. Because of that, stronger flours tend
+to be more expensive. For freestanding loaves, I recommend
+using a flour that contains at least 12% protein.
+Generally, the more protein, the longer you can ferment your dough.
+
+Another option to achieve a more sour flavor could be to
+use a starter that produces more acetic acid. Based on my own
+experience, most of my pure rye starters produced stronger acetic
+notes. Chemically, the acetic acid isn't as sour, but when tasting
+it will seem more sour. Make sure to use a starter that is at
+a hydration of around 100%. Acetic acid production
+requires oxygen. A starter that is too liquid tends to favor lactic
+acid production because the flour is submerged in water. By submerging
+the dough very little oxygen can pass through the water to the fermenting flour.
+Because of this, only very little acetic acid can be produced. Over
+time the acetic acid-producing bacteria will perish from your starter.
+
+
+![A half-baked bread, known as *parbaked*.](images/parbaked-bread.jpg)
+
+*A half-baked bread, known as *parbaked*.*
+
+
+Another easier option could be to bake your sourdough
+twice. I have observed this when shipping bread for my micro
+bakery. The idea was to bake my bread for around 30 minutes
+until it's sterilized, let it cool down and then ship it
+to customers. Once you receive it, you just bake it again
+for another 20–30 minutes to achieve the desired crust and
+then you can eat it. Some of the customers reported a very sour
+tasting bread. After investigating a bit more, it became
+crystal clear. By baking the bread twice you don't boil off
+as much acid during the baking process. Water
+evaporates at around 100°C (212°F) while acetic
+acid boils at 118°C (244°F) and lactic acid at
+122°C (252°F). After baking for 30 minutes at
+around  230°C (446°F) some of the water has
+started to evaporate, but not all the acid yet. If you were to continue to
+bake, more and more of the acid would start to evaporate. Now if you were to
+stop baking after 30 minutes, you would typically have reached a core
+temperature of around 95°C (203°F).  Your dough
+would need
+to be cooled down again to room temperature. The crust would
+still be quite pale. Then a couple of hours later, you start
+to bake your dough again. Your crust would become nice and
+dark featuring delicious aroma. The aroma is coming from the
+Maillard reaction. However, the core of your dough still won't
+exceed the 118°C required to boil the acid. Overall, your
+bread will be more sour. The enhanced acidity also helps
+to prevent pathogens from entering your bread. The bread
+will be good for a longer period of time. That's why
+the concept of a delivery bakery works well with tangy sourdough bread.
+In my own experiments, the bread stayed good for up to a week
+in a plastic bag. This is much longer than a yeast-based dough that might
+mold after just a few days[^1].
+
+### My bread is too sour
+
+Some people like the bread less sour as well. This
+is personal preference. To achieve a less sour bread
+you need to ferment for a shorter period of time.
+The yeast produces CO₂ and ethanol. Both yeast and
+bacteria consume the sugars released by the amylase enzyme
+in your dough. When the sugar is depleted, bacteria starts to
+consume the leftover ethanol by the yeast. Over time more
+and more acidity is created, making a more sour loaf.
+
+Another angle at this would be to change the yeast/bacteria
+ratio of your sourdough. You can start the fermentation with
+more yeast and less bacteria. This way, for the same given
+volume increase of your dough, you will have less acidity.
+A really good trick is to make sure that you feed your starter
+once per day at room temperature. This way you shift
+the tides of your starter towards a better yeast fermentation [more active starter].
+
+To shift the tides even further, a real game changer
+for me has been to create a stiff sourdough starter. The
+stiff sourdough starter is at a hydration of around 50%.
+By doing so your sourdough starter will favor yeast
+activity a lot more. Your doughs will be more fluffy and less
+sour for a given volume increase. I tested this
+by putting balloons over different glass jars. I used
+the same amount of flour for each of the samples.
+I tested a regular starter, a liquid starter and a stiff
+starter. The stiff starter by far created the most CO₂
+compared to the other starters. As a consequence, the stiff
+starter balloon was inflated the most [stiff starter]. You can read more
+about the topic of stiff starters in the relevant section.
+
+Another unconventional approach could be to add baking
+powder to your dough. The baking powder neutralizes the
+lactic acid and will make a much milder
+dough [baking powder reduce-acidity].
+
+### My bread flattens out when removing it from the banneton
+
+After removing your dough from the banneton, your dough will always
+flatten out a bit. That's because over time your gluten network
+relaxes and can no longer hold the shape. However, during the course
+of baking, your dough is going to increase in size and inflate again.
+
+If your dough however flattens out completely, it's a sign that
+you have fermented your dough for too long. Please refer to
+Subsection
+where I explain about overfermented doughs. Your bacteria
+has consumed most of your gluten network. That's why your
+dough fully collapses and stays flat during the bake. The
+CO₂ and evaporating water will diffuse out of the dough.
+A related symptom is that your dough sticks to the banneton.
+When I starting baking I combated this with rice flour.
+It worked for me but it might be a false find. Please refer to
+Subsection  for more details on why
+rice flour is not a good idea to manage sticky doughs.
+
+These days I gently rub my
+dough with a bit of non-rice flour before placing it in
+the banneton. Now if the dough starts to stick to the banneton
+while I remove it I resort to a drastic measure. I immediately
+grease a loaf pan and directly place the dough inside. The loaf
+pan provides a barrier and the dough can't flatten out as much.
+The dough won't be as fluffy but it will be super delicious if you love tangy bread.
+
+If you own a pH meter, take a note of your dough's pH before baking.
+This will allow you to better judge your dough throughout
+the fermentation process.
+
+### My bread flattens out during shaping
+
+Similarly to a dough flattening out after removing it from the banneton,
+a flattened dough after shaping is also a possible sign of over-fermentation.
+
+When you try to shape the dough, can you easily tear pieces from the dough?
+If yes, you have definitely overfermented your dough. If not, it might just
+be a sign that you have not created enough dough strength for your dough.
+A ciabatta, for instance, is a dough that tends to flatten out a bit after shaping.
+
+If your dough is not able to be shaped at all, use a greased loaf pan
+to rescue your dough. You can also cut a piece of the dough and use it
+as the starter for your next dough. Your sourdough dough is essentially
+just a gigantic starter.
+
+### My crust becomes chewy
+
+Depending on which style of bread you are making a
+thick crackly crust is sometimes desired. The crust
+of your bread is created during the 2nd stage of the
+baking process once the steaming source of your
+oven has been removed. The dark colors are created by
+the process known as *Maillard reaction* and then followed
+by another process known as *caramelization*. Each
+color of crust offers the taster a different aroma.
+
+What happens quite often is that the crust becomes chewy after a day.
+Sometimes when baking in the tropics with high humidity, the
+crust only stays in this stage for a few hours. Afterwards
+the crust becomes chewy. It's no longer as crisp compared
+to the moment after baking. Your dough still contains moisture.
+This moisture will start to homogenize in the final bread and
+partially evaporate. The result is that your crust becomes chewy.
+
+Similarly when storing your bread in a container or in a plastic
+bag, your crust is going to become chewy. I have no fix for this yet.
+I typically tend to store my breads in a plastic bag inside of my fridge.
+This allows the moisture to stay inside of bread. When taking a slice
+I always toast each slice. This way some of the crispness returns.
+If you know of a great way, please reach out and I will update
+this book with your findings.
+
+troubleshooting/crumb-structures
+
+## Misc
+### Baking in the tropics
+
+Depending on the temperature, your fermentation speed adapts.
+In a warmer environment, everything is faster. In a colder
+environment, everything is slower.
+
+This includes the speed at which your sourdough ferments
+the dough but also the speed of enzymatic reactions. The
+amylase and protease enzymes work faster, making more
+sugars available and degrading the gluten proteins.
+
+At around 22°C (72°F) in my kitchen my bulk fermentation is ready
+after around 10 hours. I use around 20% of sourdough
+starter based on the flour. In summertime the temperatures
+in my kitchen sometimes increase to
+25°C (77°F). In that case
+I reduce the sourdough starter to around 10%.
+
+If I didn't do that, my fermentation would be done after
+around 4–7 hours. The problem is that the dough is quite
+unstable when fermenting at this high speed. This means
+that you easily run into issues of over-fermentation.
+Finding the perfect sweet spot between fermenting enough
+and not too much becomes much harder. Normally you might
+have a time window of 1 hour. But at the rapid speed it
+might be reduced to a time window of 20 minutes. Now at
+30°C (86°F), everything moves much faster. Your
+bulk fermentation might be complete in 2–4 hours when using
+10–20% starter. Proofing your dough in the fridge becomes
+almost impossible. As your dough cools down in the fridge the fermentation
+also slows down. However cooling the dough down from 30°C
+to 4–6°C in your fridge takes much longer. Your
+dough is much more active compared to a dough that starts at a temperature of
+20–25°C. You might end up overproofing your dough if
+you leave it overnight in the fridge.
+
+That's why I recommend that you reduce the amount of starter
+that you use in the tropics to around 1–5%
+based on the flour. This will slow down the fermentation
+process significantly and provides you a bigger window
+of time. Try to aim for an overall bulk fermentation of at
+least 8–10 hours. Reduce the amount of starter to get there.
+
+When making dough, try to use the same water temperature
+as your ambient temperature. Assuming that the temperature
+will climb to 30°C try to start your dough
+with 30°C water. This means that you can carefully rely on
+a small fermentation sample (aliquot jar) that visualizes your fermentation
+progress. To read more about this technique refer
+to the relevant section.
+
+The sample only works reliably if your dough temperature
+is equal to your ambient temperature. Else the sample heats
+up or cools down faster. So tread carefully when using
+the sample in this case. It's always better to stop
+the fermentation a little too early rather than too late.
+Stretch and folds during the bulk fermentation
+will help you to develop a better feel for
+the dough. An expensive but possibly useful tool
+could be a pH meter that allows you to perfectly
+measure how much acidity has been created by the
+lactic and acetic acid bacteria. In this case measure
+the pH repeatedly and figure out a value that works
+for your sourdough. In my case I tend to end bulk
+fermentation at a pH of around 4.1. Please don't just
+follow my pH value; it's very individual. Keep measuring
+with different doughs to find out a value that works for you.
+
+### My flour has low gluten content—what should I do?
+
+You can always mix in a little bit of vital wheat gluten. Vital wheat gluten
+is concentrated extracted gluten from wheat flour.
+
+I recommend that you add around 5 g of wheat gluten for every
+100 g of flour that you are using.
+
+---
+
+[^1]: Some of my first test customers however
+reported that the bread was overly sour and not pleasant to eat at all.
+When this happens to you, consider toasting the bread. Toasting
+will boil off additional acidity.

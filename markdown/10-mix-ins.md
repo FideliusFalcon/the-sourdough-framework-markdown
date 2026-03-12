@@ -1,0 +1,351 @@
+# Mix-ins
+
+> In this chapter, you will learn about the fascinating world of sourdough
+> mix-ins. Discover how these additions can elevate your bread, enhancing
+> flavor, adding vibrant colors, and creating delightful textures that make
+> each loaf a culinary masterpiece.
+
+
+![These soft pull-apart sourdough
+    buns have been made with the addition of pumpkin purée. The mashed pumpkin
+    adds flavor and hydration to the dough.](images/pumpkin-sourdough)
+
+*These soft pull-apart sourdough
+    buns have been made with the addition of pumpkin purée. The mashed pumpkin
+    adds flavor and hydration to the dough.*
+
+
+A loaf of wheat sourdough has a very pure aesthetic. Good craftsmanship and
+precision transform the ingredients into simple, but delicious food. With
+mix-ins, the basic recipe can become the starting point for a whole world of
+modifications to try and combine. Think of the loaf of bread as a blank canvas
+to express yourself.
+
+## Categories
+
+
+![A popular method is to substitute part of the
+          dough's water with another liquid, such as puréed pumpkin.  When
+          incorporating the purée, add any extra water gradually, as the purée
+          will release its own liquid into the dough over time.](images/pumpkin-on-flour)
+
+*A popular method is to substitute part of the
+          dough's water with another liquid, such as puréed pumpkin.  When
+          incorporating the purée, add any extra water gradually, as the purée
+          will release its own liquid into the dough over time.*
+
+
+One approach to categorizing the mixins is to look at their respective shape.
+However, the transition between these categories is somewhat fuzzy:
+
+- Liquids: Integrate homogeneously into the dough, may replace some of or all of the water. Examples: Milk, butter, oil, spinach juice, tomato juice, eggs
+- Powders: Integrate homogeneously into the dough, may replace some of the flour. Examples: Milk powder, semolina, cocoa, spices
+- Small bits: Individually visible in the final loaf, small enough to distribute somewhat evenly throughout the dough. Examples: Seeds (wheat berries, rye berries, poppy seeds, sesame, pumpkin seeds, flax seeds), whole spices (coriander)
+- Chunks: Larger pieces that will only be present in the occasional bite when eating a slice of your bread. Examples: dried tomatoes, chunks of cheese, chunks of chocolate
+
+Another categorization approach looks at the changes to the bread:
+
+- Flavor: Significantly changes the taste of the bread. Examples: rye flour, corn flour, spices, sugar.
+- Color: Significantly changes the look of the bread. Examples: cocoa, squid ink, beetroot juice, tomato juice.
+- Texture: Significantly changes the feeling in the mouth when eaten. Examples: Cheese (gummy), seeds (crunchy), olives (squishy chunks).
+
+Many of the above-listed mix-ins can't be pinpointed to a single category. They
+change multiple aspects of the final bread at the same time.
+
+
+![In this case a combination of flax, sunflower and
+    sesame was added to the dough. The seeds will slightly dehydrate the dough
+    during fermentation and thus adding a bit more water
+    (1–2%) is advised.](images/seeded-sourdough)
+
+*In this case a combination of flax, sunflower and
+    sesame was added to the dough. The seeds will slightly dehydrate the dough
+    during fermentation and thus adding a bit more water
+    (1–2%) is advised.*
+
+
+Mix-ins affect the structure of the dough. One aspect is the impact on
+hydration. Some mix-ins absorb a lot of water when added to the dough, so you
+have to increase the amount of water to achieve the same dough consistency.
+The other impact is on the gluten network. Bits and chunks disrupt the gluten
+network and may reduce oven spring during baking. All of this depends on the amount of mix-ins
+used. A good rule of thumb is to add 10–20% of the amount
+of flour in most mix-ins, reduced to around 1–5% of the
+amount of flour for spices.
+
+An important factor is also the mix-in's behavior during baking. Particularly
+chunks may bake differently than dough, and either melt (cheese) leaving holes
+inside, or char when peeking through the crust (\eg vegetables). These
+problems can be mitigated to some degree with the right preparation (\eg chopping
+into smaller pieces, soaking dry ingredients in water or oil first,
+or squeezing out excess moisture).
+
+## Examples
+
+The following is a list of common mix-ins and their peculiarities. They can be
+combined depending on your preference.
+
+### Flours
+These are powders. Usually, you want to just replace some fraction of the
+regular bread flour. Different flours change the taste of the bread and
+usually moderately affect the color.
+
+
+![Broa de milho is a traditional Portuguese bread
+  made out of half rye and half corn flour.](images/broa)
+
+*Broa de milho is a traditional Portuguese bread
+  made out of half rye and half corn flour.*
+
+
+- Whole wheat flour (substitute any amount, makes the bread taste more complex, nutty)
+- Rye flour (very hearty, nutty, malty taste)
+- Enzymatic malt (malty taste, improves enzymatic activity). The malt is a great addition when making quicker yeast-based doughs.
+- Semolina (supports Mediterranean flavors)
+- Cocoa (replace 10% of the flour for a black loaf, goes great with sweet toppings)
+- Other non-wheat flours such as: Chickpea, corn, hemp, potato…{}
+
+### Liquids
+
+Instead of using water, you can substitute it with a different liquid,
+affecting taste and texture.
+
+
+![Dark hearty stouts work excellently as a water
+  replacement when making sourdough bread. The resulting loaf features a
+  hearty malty taste](images/beer-bread)
+
+*Dark hearty stouts work excellently as a water
+  replacement when making sourdough bread. The resulting loaf features a
+  hearty malty taste*
+
+
+- Beer
+- Butter
+- Buttermilk
+- Cereal milk (the leftover milk from eating cereals)
+- Coffee
+- Eggs
+- Fruit/vegetable juices (also see the relevant section)
+- Milk (for sweet, soft breads)
+- Milk alternatives such as: Almond, oat, soy…{}
+- Mashed potatoes
+- Mashed sweet potatoes. Bolo do caco is a typical bread from Madeira, made from 50% wheat flour and 50% mashed potatoes.
+- Olive oil (Mediterranean)
+- Other mashed vegetables such as: Beets, pumpkin…{}
+
+### Colors
+
+Some mix-ins will change the color and flavor of your bread. Common colorings
+include:
+
+- Activated charcoal powder (black)
+- Beetroot juice (red)
+- Blueberry juice (blue)
+- Blue butterfly pea flower powder (blue)
+- Carrot juice (orange)
+- Pear juice (pink)
+- Spinach juice (green)
+- Squid ink (black)
+- Strawberry juice (red)
+- Tomato juice (red)
+
+### Seeds and nuts
+These are small bits, with some almost crossing into the chunk category. Some
+seeds benefit from being boiled for about 10 minutes before adding them to the
+dough.
+
+
+![The Stollen is a traditional German sweet Christmas
+    bread featuring a variety of mix-ins. The dough typically contains candied
+    lemon, candied orange, and raisins. The mix-ins are soaked in rum before
+    being added to the dough. While the stollen matures after baking (up to
+    6 months) the candied ingredients release their aroma to the baked
+    product.](images/stollen-close-up)
+
+*The Stollen is a traditional German sweet Christmas
+    bread featuring a variety of mix-ins. The dough typically contains candied
+    lemon, candied orange, and raisins. The mix-ins are soaked in rum before
+    being added to the dough. While the stollen matures after baking (up to
+    6 months) the candied ingredients release their aroma to the baked
+    product.*
+
+
+- Cacao nibs
+- Chia seed
+- Chopped or whole nuts such as: Almonds, hazelnuts and walnuts
+- Flaxseeds
+- Hemp seed
+- Poppy seed
+- Pumpkin seed
+- Sesame
+- Sunflower seed
+- Whole rye berries (boil 10 minutes)
+- Whole wheat berries (boil 10 minutes)
+
+
+![A sourdough bread made with half
+      whole-rye flour and half rye berries. The berries are typically boiled
+      for 10 minutes to allow them to soften a bit. When baking a loaf it is
+      advised to use a thermometer to measure whether it is done baking. The
+      final bread features a hearty tangy flavor and has a moist crumb.](images/seeds-bread)
+
+*A sourdough bread made with half
+      whole-rye flour and half rye berries. The berries are typically boiled
+      for 10 minutes to allow them to soften a bit. When baking a loaf it is
+      advised to use a thermometer to measure whether it is done baking. The
+      final bread features a hearty tangy flavor and has a moist crumb.*
+
+
+### Spices and flavor mix-ins
+These are mostly powders or small bits.
+
+- Blueberry skins (press through a sieve to remove juice), raw blueberries
+- Browned onions
+- Candied fruits such as: Lemon, orange, pineapple…{}
+- Cinnamon
+- Grated hard cheese such as: Gruyère, parmesan…{}
+- Mediterranean herbs such as: Marjoram, oregano, rosemary, thyme…{}
+- Miso
+- Molasses
+- Sugar
+- Spices such as: Anise, fennel, cinnamon, coriander, cumin…{}
+- Zests such as: Lime, Lemon, orange…{}
+
+### Highlights
+Mostly chunks, that add a big contrast and flavorful highlight to the basic
+bread. Usually, you want to use only one (or a maximum of two) of these. The suggestions
+can often be complemented by some flavor or flour mix-in.
+
+- Chocolate chunks or drops
+- Chunks of black garlic
+- Chunks of cheese such as: Cheddar, feta…{}
+- Cornflakes
+- Dried fruits such as: Cranberries, dates, raisins…{}
+- Olives
+- Pickled pepperoni
+- Sun-dried tomatoes (squeeze out the oil if using pickled ones, or soak dried ones in water)
+
+### Combinations
+A few combinations where multiple mix-ins complement each other:
+
+- Butter and milk. Then add cinnamon and brown sugar before shaping
+- Cheddar and pepperoni
+- Cheddar and jalapeño
+- Cocoa, cacao nibs, whole hazelnuts
+- Cranberry and walnuts
+- Semolina, Mediterranean herbs, olives, sun-dried tomatoes
+- Tomato juice instead of water with 20% rye flour
+
+## Techniques
+
+Adding mix-ins to the dough is just the simplest approach. Add the mix-ins
+directly when you knead the dough. After the first kneading wait for 30
+minutes to see if the dough has enough or too much water. In the case of
+whole-soaked berries (\eg rye or wheat) chances are that the berries will
+release some water and make the dough wetter. In this case, you will want to
+add a bit more flour to the dough to compensate for the high hydration.
+
+### What is the best stage to
+incorporate inclusions (seeds) into the dough?
+
+
+You can include seeds directly at the start when mixing the dough. If you use
+whole seeds such as wheat or rye kernels, soak them in water overnight and
+then rinse them before adding them to the dough. This makes sure that they are
+not crunchy and are soft enough when eating the bread. If you forgot to soak
+them you can cook the seeds for 10 minutes in hot water. Rinse them with cold
+water before adding them to your dough.
+
+If you want to sweeten the dough, your best option is to add sugar during the
+shaping stage. Sugar added too early in the process typically gets fermented
+until none of it remains. Adjust your shaping technique a little bit and
+spread your sugar mixture over a flattened-out dough. You can then roll the
+dough together, incorporating layers of sugar.
+
+### Adding before shaping
+
+
+![A great technique is to add some of your mix-ins
+      directly before shaping. In this case, a mixture of apples, cinnamon and
+      brown sugar was applied. Proceed and roll the dough together. Afterward
+      cut the roll into smaller pieces using a sharp knife, dough scraper or
+      dental floss. Place each piece of dough next to each other in a greased
+      bowl to allow them to be proofed.  Proceed and bake as you would
+      normally do. The benefit of this technique is that the mix-ins will not
+      be fermented. This is typically required in the case of sugar since you
+      want the final baked goods to feature sweetness. If included upon
+      initial mixing most of the sugar would be fermented and the bread would
+      not taste sweet.](images/apple-swirl)
+
+*A great technique is to add some of your mix-ins
+      directly before shaping. In this case, a mixture of apples, cinnamon and
+      brown sugar was applied. Proceed and roll the dough together. Afterward
+      cut the roll into smaller pieces using a sharp knife, dough scraper or
+      dental floss. Place each piece of dough next to each other in a greased
+      bowl to allow them to be proofed.  Proceed and bake as you would
+      normally do. The benefit of this technique is that the mix-ins will not
+      be fermented. This is typically required in the case of sugar since you
+      want the final baked goods to feature sweetness. If included upon
+      initial mixing most of the sugar would be fermented and the bread would
+      not taste sweet.*
+
+
+Another approach is to lay the dough out flat after the bulk fermentation.
+Then using a spatula spread your ingredient over the flat dough. Continue with
+your regular shaping and/or roll up the dough. When creating a roll you can
+use a sharp knife to cut the dough, dental floss works great too. Afterward,
+place the tiny swirls in a container to let them proof and become fluffier.
+This is an excellent way to add sweet mix-ins as the microbes will not ferment
+them. When adding sugar to the initial dough it will be fermented and the
+resulting dough will not taste sweet (depending on the fermentation duration).
+This approach is excellent for garlic/cheese rolls, garlic/herb rolls, and
+cinnamon rolls
+
+### Covering the surface
+
+
+![These are chop buns which are created by chopping
+    up a retarded dough into smaller pieces before baking. Then each piece of
+    dough is quickly dumped in water and then rolled in a bowl of seeds.
+    Afterward, the dough is directly baked in the preheated oven. These
+    coverings add superb additional flavor and can be adjusted depending on
+    your preference. I love adding a mixture of sunflower, flax, and
+    sesame seeds.](images/surface-seeds)
+
+*These are chop buns which are created by chopping
+    up a retarded dough into smaller pieces before baking. Then each piece of
+    dough is quickly dumped in water and then rolled in a bowl of seeds.
+    Afterward, the dough is directly baked in the preheated oven. These
+    coverings add superb additional flavor and can be adjusted depending on
+    your preference. I love adding a mixture of sunflower, flax, and
+    sesame seeds.*
+
+
+This works best for either powders or small bits. After shaping wrap your
+coverings on the dough's surface. This works great too when covering your
+banneton or loaf pan with seeds or oats. When using a loaf pan or banneton
+these coverings also help to make the container stick less.
+
+Another approach commonly used with buns is to wet the surface or dump the
+dough in water. Afterward, dip the wet piece of dough into your bowl of
+mix-ins.  This does not work for all mix-ins, as some can't handle the high
+temperatures during baking and char. Most commonly done with seeds
+(\eg sesame, oats, flax-seed).
+
+### Swirled colors
+Mix-ins that change the color of the dough bring the opportunity for even more
+creativity by merging the dough before shaping.
+
+Proceed and separate your base dough before adding a colorful ingredient. Bulk
+ferment the dough in separate containers. Then Combine the two (or
+more) differently colored doughs by laminating and stacking the colored sheets
+of dough before the last folding, just before shaping. This way the colored
+layers won't mix and the resulting dough will have differently colored and
+tasting layers[^1].
+
+---
+
+[^1]: I once made an experimental dough by merging a wheat,
+rye, spelt and einkorn dough into a single dough. The resulting dough was
+layered featuring different colors, textures, and flavors.

@@ -1,0 +1,1731 @@
+# Wheat sourdough
+
+
+> In this chapter, you will learn how to make
+> freestanding wheat sourdough bread.
+
+
+![A freestanding sourdough bread
+      next to bread made in a loaf pan.  Freestanding sourdough is considered
+      the supreme discipline of sourdough bread by many bakers.](images/loaf-pan-free-standing.jpg)
+
+*A freestanding sourdough bread
+      next to bread made in a loaf pan.  Freestanding sourdough is considered
+      the supreme discipline of sourdough bread by many bakers.*
+
+
+Freestanding sourdough bread is my favorite
+type of bread. It combines a great crunchy crust, superb
+flavor, and a soft fluffy crumb. This is the type of bread
+that is being inhaled by my friends and family. Unfortunately,
+making this type of bread requires a lot more effort, patience,
+and technique than other types of bread. You have to perfectly
+balance the fermentation process. You cannot ferment for too
+short and also not for too long. The techniques you need to
+learn also require a bit more skill. It took me several attempts
+to get this right. I faced several challenges: I had the wrong flour.
+I didn't properly know how to use my oven.
+When should I stop the fermentation? There is a lot of information
+out there. I dug through most of it and have tried almost everything.
+In many cases the information was wrong; in other cases, I found another
+valuable puzzle piece. Aggregating all this
+information was one of my main motivations to start `The Bread Code`.
+My key learning was that there is no recipe that
+you can blindly follow. You will always have to adapt the recipe
+to your locally available tools and environment.
+
+But do not worry. After reading this chapter you will know all the signs to
+look out for. You will be able to read your dough.  You will turn into a
+confident hobby baker who can bake bread at home, at high altitudes, at low
+altitudes, in summer, in winter, at your friend's place, and even on vacation.
+Furthermore, you will know how to scale your production from one loaf to
+hundred loaves of bread.  If you ever wanted to open up a bakery, consider
+this knowledge to be your foundation.
+
+Mastering this process will enable you to make amazing bread
+that tastes much better than any store-bought bread.
+
+## The process
+
+
+**Flowchart:** *The typical process of making a wheat-based sourdough bread.*
+
+
+The whole process of making great sourdough bread starts with
+readying your sourdough starter. The key to mastering
+this process is to manage the fermentation process properly.
+For this, the basis is to have an active and healthy
+sourdough starter.
+
+Once your starter is ready, you proceed to mix all the ingredients.
+You want to homogenize your sourdough starter properly. This
+way you ensure an even fermentation across your whole dough.
+
+After a short break, you will proceed and create dough strength.
+Kneading will create a strong gluten network. This is essential
+to properly trap the CO₂ created during the fermentation.
+
+Once you've kneaded, the bulk fermentation starts. It is called bulk fermentation
+because you typically ferment multiple loaves together in one bulk.
+Understanding when to stop this step will take some practice.
+But nothing to worry about, you will learn the exact signs to look out for.
+
+Once this is completed you need to divide your large blob of
+dough into smaller pieces and pre-shape each piece. This allows
+you to apply more dough strength and shape more uniform loaves.
+
+The proofing stage follows where you finish the fermentation process.
+Depending on your time you can proof it at room temperature or in the fridge.
+Mastering proofing will turn your good loaf into a great loaf.
+
+Lastly, you will finish the whole process by baking. You will learn different
+options on how to properly steam your dough. This way your
+dough will have a beautiful oven spring. During the second
+stage of the baking process, you will finish building your crust.
+
+All the steps rely on each other. You will need to get each of
+the steps right to make the perfect bread.
+
+## Readying your starter
+
+
+The most crucial part of the bread-making process is your starter.
+The starter is what starts the fermentation in your main dough.
+If your starter is off, then your main dough is also going
+to cause trouble during the fermentation. Your starter's
+properties are passed on to your main dough. If your starter
+doesn't have a good balance of yeast to bacteria, neither will your
+main dough.
+
+
+**Flowchart:** *The process to check
+      your sourdough starter when making wheat-based doughs. In practice
+      I frequently use a stiff sourdough starter. The stiff starter features
+      enhanced yeast activity. In that case, you can use the same ratios as
+      shown in the chart except for the water quantity. The stiff starter has
+      a hydration of 50–60%. So you would have half the
+      shown water quantities, i.e., if the chart shows 100 g of
+      water, use 50–60 of water for your stiff starter.*
+
+
+Generally, think of the dough you are mixing as a big starter with salt.
+After mixing all the ingredients, you have a green field environment again.
+The yeast and bacteria start to fight again to outcompete each other.
+There is plenty of food available, and they all do their best to win.
+Depending on the starter you mix into your dough, some of the microorganisms
+might have an advantage over others.
+
+The first option to achieve a good balance is to apply feedings.
+If your starter hasn't been fed in a long period, the
+bacteria dominate. This happens if your starter has been
+sitting unused in the fridge, for instance. As more and more
+acidity piles up, the environment is becoming more and more hostile
+to the yeast. The lactic acid bacteria tolerate this environment
+better. Your dough fermentation would be more on the
+bacterial side with this starter. By applying a couple of
+feedings, the yeast becomes more active. The older your
+starter, the more acid resistant the yeast becomes. Initially,
+I had to feed my starter 2–3 times to fix the balance. With my
+more mature starter, one feeding seems to be enough to balance
+the microorganisms.
+
+Some people use a 1:1:1 ratio to refresh the starter. This would
+be one part of the old starter (10 g for instance), 1 part of flour,
+and one part of water. I think this is utter rubbish. As mentioned
+your starter is a miniature dough. You would never opt for a 1:1:1 ratio to
+make dough. You might use a maximum of 20% starter to
+make dough. That's why I advocate using a 1:5:5 ratio or a
+1:10:10 ratio depending on how ripe your starter is. As I almost
+always use a stiffer sourdough starter due to its enhanced
+yeast fermentation advantages (see the relevant section)
+my ratio is never 1:5:5. My ratio would be 1:5:2.5 (1 part old starter,
+5 parts flour, 2.5 parts water). If it is very warm where you live
+you could opt for the aforementioned 1:10:5 or 1:20:10. This
+way you slow down the ripening of your starter. You can also use this
+trick to make starter feeding work with your schedule.
+If your starter is typically ready in 6 hours but today you need it
+ready later, simply increase how much flour/water you feed your starter.
+These are all values that you need to experiment with on your own.
+Every starter is unique and might behave slightly differently.
+
+The second option at your disposal is the starter quantity that
+you use to make the dough. As previously stated your starter
+regrows inside of your main dough. While I would normally use
+10–20% of starter based on the flour, sometimes I go
+as low as 1% starter. This way the microorganisms have
+more room to balance out while fermenting the dough. If my sourdough
+starter has not been fed in a day, I might use 5% of sourdough
+to make a dough. If I push this to 2 days without feedings,
+I lower the starter amount even further. I would opt for the
+previously mentioned 1% starter. If the food is very scarce,
+your microorganisms will sporulate. They need to regrow again
+from the spores they created. In this hibernation state, it takes
+longer for them to become fully active again. I have tried
+several times to make dough directly out of a dry starter.
+I wasn't successful because the fermentation took too long.
+The microorganisms had to regrow from spores and then begin
+the fermentation. As explained earlier there is a limit to
+fermentation times as your dough naturally breaks down.
+Furthermore, you want your microorganisms to outcompete
+other pathogens contained in the flour. The less starter
+you use, the easier it is for them to reproduce. A strong
+starter will outcompete other germs. While the method of
+reducing the starter works, I recommend Option 1 more.
+It will reliably create better bread. Option 2 is typically
+what I use when I fed my starter in the morning but didn't
+manage to make a dough in the evening. I don't want to feed
+my starter again the next morning. I would like to make a dough
+directly without waiting and thus use less of the very ripe starter.
+
+Over time you will become more accustomed to your starter
+and how it behaves. You will be able to read the signs of its
+activity and judge its state.
+
+## Ingredients
+
+All you need to make great sourdough bread is flour, water, and salt. You
+can of course add additional things to your dough such as seeds. I personally
+enjoy the hearty taste of whole-wheat. Thus I like to add around
+20–30% of whole-wheat flour to the mix. You could also
+make this recipe with 100%
+whole-wheat flour directly. In this case, look out for strong whole-wheat
+flour that is made from flour with higher protein. If you don't like whole-wheat
+you can omit the flour from the recipe. Simply replace the listed
+quantity with bread flour. One thing to consider about whole-wheat
+flour is its increased enzymatic activity. By adding some whole-wheat
+flour you will speed up the whole fermentation process.
+
+Especially when getting started I recommend using bread flour which
+contains more gluten than all-purpose or cake flour. This is essential
+when trying to bake a freestanding loaf with sourdough.
+
+Find below an example recipe for one loaf including baker's math calculation:
+
+- 400 g of bread flour
+- 100 g of whole-wheat flour
+- *Total: 500 g of flour*
+- 300–450 of room temperature water (60% up to 90%). More on this topic in the next chapter.
+- 50 g of stiff sourdough starter (10%)
+- 10 g of salt (2%)
+
+In case you want to make more bread simply increase the quantities based on
+how much flour you have. Let's say you have 2000 g of flour available. The
+recipe would look like this:
+
+- 1600 g of bread flour
+- 400 g of whole-wheat flour
+- *Total: 2000 g of flour*, equaling 4 loaves
+- 1200 g up to 1800 g of room temperature water (60 to 90%)
+- 200 g of stiff sourdough starter (10%)
+- 40 g of salt (2%)
+
+This is the beauty of baker's math. Simply recalculate the percentages, and you
+are good to go. If you are unsure about how this works, please check out the
+full the relevant section which looks at the topic in detail.
+
+## Hydration
+
+Hydration refers to how much water you use for your flour. When
+beginning to make bread, I always got this wrong. I followed a recipe from the
+internet, and my dough never looked like the dough shown in the recipe.
+The amount of water your flour requires is not fixed. It depends on the flour
+you have.
+
+When a seed gets into contact initially, the outer layers soak up the water.
+That's why when using whole-wheat (still containing these layers) you have to
+use a little bit more water.
+
+By forming gluten strands, water is absorbed into your dough's gluten matrix.
+The higher the protein value, the more water can be used.
+
+Some bakers like to use highly hydrated doughs to create fluffier
+bread[^1].
+The reason for this
+is the dough's improved extensibility. The wetter the dough, the easier it is
+for the dough to be stretched. When you pull it, the dough will hold its
+shape. In comparison, a very stiff (low hydration) dough will maintain its
+shape for a longer period. To visualize this, think of your extensible
+dough as a balloon. The stiff dough is like a car tire.
+The yeast has a much harder time inflating the car tire compared to the balloon.
+That’s because the rubber of the car tire is much less extensible.
+It requires much more force to inflate the tire. For this reason,
+an extensible dough will inflate more in the oven. The loaf will
+be visually bigger and offer an airier more open crumb structure.
+
+While this might sound great, the high hydration causes several side effects.
+
+1. Your dough becomes more difficult to handle. Your dough will be stickier.
+2. Your dough has to be kneaded for longer to build a proper gluten network.
+3. During the fermentation your dough might become too extensible and lose some of the dough strength. To circumvent this, stretch and folds are applied compared to regular dough, requiring you to invest a lot more work.
+4. Shaping becomes much more of a hassle as the dough is very sticky.
+5. The dough can stick to the banneton a lot easier while proofing.
+6. If you wait too long during proofing, the dough won't have enough strength left to pull upwards and will stay flat.
+7. Generally, the higher the water content, the more bacterial fermentation you have. Thus a wetter dough will reduce gluten faster than a stiffer dough. This is why you have to start the fermentation with a sourdough starter in perfect shape. Bakers use a process called autolysis to shorten the main fermentation time to circumvent this.
+8. The crumb, in the end, might be perceived as somewhat sticky. It still contains a lot of water. I love this crumb, but this comes down to personal taste.
+
+To achieve a high-hydration dough, it is best to slowly add water to
+your dough. Start with 60% hydration, then slowly add a bit more water. Knead
+again until the water is absorbed. Repeat and add more water. As your dough
+has already formed a gluten network, new water can be absorbed much easier.
+You will be surprised by how much water your dough can soak up. This
+method is commonly known as the bassinage method. More on that later.
+By opting for this technique, I was easily able to push a low-gluten flour
+to a hydration of 80%. This
+is also my method of choice when making dough now. I keep adding water until
+I can feel that the dough has the right consistency. As you bake more bread,
+you will develop a better look and feel for your dough. When mixing
+by hand this can be quite cumbersome. It is a lot easier when using a stand
+mixer.
+
+All in all, increasing hydration requires a lot of trial and error. There
+is however one option that makes things easier and causes fewer headaches:
+Slow fermentation. You get the same extensibility advantages the high hydration
+offers by simply letting your dough ferment for a longer period.
+Slowing the fermentation process is easy. Use less
+sourdough starter or ferment in a cooler environment.
+
+There are two reasons for the slow fermentation advantages.  As explained
+earlier, both the protease enzyme and bacteria break down your gluten network.
+So as fermentation progresses, your dough will automatically become more
+extensible. This is because the rubber layers of your car tire are slowly
+converted and eaten. Ultimately your car tire turns into a balloon that can
+very easily be inflated. When waiting too long, the balloon will burst. You
+will have no gluten left anymore, and your dough becomes very sticky. Finding
+the sweet spot of enough rubber eating and not too much is what the perfect
+wheat sourdough bread is about. But don't worry—after reading this chapter
+you will have the right tools at your disposal.
+
+The advantages of slow fermentation can be nicely observed when experimenting
+with a fast-fermenting yeast dough (1% dry yeast based on flour). The
+crumb of such a dough is never as
+open as a dough made with sourdough. Furthermore, the protease enzyme
+cannot do its job within such a short fermentation period.
+Large industrial bakeries add active malt which contains a
+lot more enzymes. This way the time required to make the dough is shortened. You
+will most likely find malt as an ingredient in supermarket bread. It is a
+great hack. The baked turbo fermentation bread will feature a relatively dense
+and not fluffy crumb. That is because only very little gluten is broken down when
+finishing the fermentation period in 1 hour. If you were to slow things down,
+the dough would look completely different.
+Try this again and use much less yeast. This is the
+secret of Neapolitan pizza. Only a tiny bit of yeast is used to make the
+dough. My default pizza recipe calls for around 150 of dry
+yeast per \kg of flour. Give it a shot yourself the next time you
+make a yeast-based dough. Try to push the fermentation to at least 8 hours.
+The difference is incredible. You will have made bread with a much more
+fluffy and open crumb. The flavor of the dough is drastically improved. Your
+crust becomes crisper and features a better taste. This is because amylases have
+converted your starches into simpler sugars which brown better during baking.
+If you only learn one thing from this book, it is that slow fermentation is
+the key to making great bread.
+
+For this reason, my default hydration is much lower than the hydration of other
+bakers. I prefer slower fermentation for my recipes.
+The sweet spot for my default flour is at around 70% hydration.
+Again, this is a highly subjective value that works for my flour.
+
+If you are just getting started with a new batch of flour,
+I recommend conducting the following test. This will help you to
+identify the sweet spot of your flour's hydration capabilities.
+
+Make five bowls with each 100 g of flour. Add different slightly
+increasing water amounts to each of the bowls.
+
+- 100 g of flour, 55 g of water
+- 100 g of flour, 60 g of water
+- 100 g of flour, 65 g of water
+- 100 g of flour, 70 g of water
+- 100 g of flour, 75 g of water
+
+Proceed and mix the flour and water mixture until you see that there
+are no chunks of flour left. Wait 15 minutes and return to your dough.
+Carefully pull the dough apart with your hands. Your dough should be elastic, holding
+together very well. Stretch your dough until very thin. Then hold it against a light.
+You should be able to see through it. The flour-water mixture that breaks without
+seeing the windowpane is your no-go zone. Opt for a dough with
+less hydration than this value. You will know that your flour mix can go up to
+ 65% hydration, for instance. Use the leftovers of this experiment
+to feed your starter.
+
+
+![The window pane test allows you to see if you
+      developed your gluten well enough.](images/window-pane-effect)
+
+*The window pane test allows you to see if you
+      developed your gluten well enough.*
+
+
+From an economic perspective, water is the cheapest component in your bread
+dough. When running a bakery, a higher hydrated dough will weigh more and have
+lower production costs. The profit will be higher. This comes at the price
+of increasing labor costs and more potential failures due to the enhanced
+difficulty.
+
+## How much starter?
+
+Most bakers use around 20% sourdough starter based on the
+flour weight.  I recommend going much lower, to around
+5–10%.
+
+By adjusting the amount of pre-ferment you can influence the time your dough
+requires in the bulk fermentation stage. The more starter you use, the faster
+this process is. The smaller the starter quantity, the slower. With a higher
+quantity of starter, you are introducing more microorganisms to your main
+dough. The higher this quantity, the faster the rate of fermentation in your
+dough is.
+
+The other factor influencing the rate of fermentation is the temperature of
+your dough. The warmer the temperature, the faster the process; the colder, the
+slower the process.
+
+While food is available, the microorganisms will reproduce and increase in
+quantity. The process is self-limiting: it stops when there is no
+more food available. This can be compared to wine making where
+the yeast ultimately sporulates and dies as ethanol levels increase. The ethanol creates an
+environment that makes it impossible for other
+microorganisms to join the feast. The same thing happens with the acidity
+created by the bacteria. The high acidity slows the fermentation process and
+prevents new microorganisms from entering the system.
+
+Initially, your starter's properties are carried over to the main dough. Then,
+as time progresses, the microorganisms adapt to the new environment. If your
+starter is very bacterial then your main dough's fermentation will also be. You
+end up with a dough that is not as fluffy as it could be. It will taste quite
+sour, too sour for most people.
+
+If you were to use an extreme value of around 90% starter based on your flour, there
+would be very little room for the microorganisms to adjust in the main dough.
+If you were to just use 1%, your microorganisms can regrow into a
+desirable balance in the dough. Furthermore, you need to consider that a high value
+of starter means a high inoculation with already fermented flour. As
+mentioned earlier, enzymes break down the dough. This means the higher this
+value, the more broken-down fermented flour you have. A too-long fermentation
+always results in a very sticky dough that cannot be handled. The more
+starter you use, the faster you will get to this point. If you were to use a
+very little amount of starter, your flour might have naturally broken down
+before the fermentation has reached the desired stage. You can observe this
+when using a small quantity of around 1% sourdough starter. The small
+amount of added microorganisms will not be able to reproduce fast enough
+before the protease has broken down your dough completely.
+
+As explained earlier the key to making great bread is a slow but not too slow
+fermentation. Enzymes require time to break down your dough. Taking all this
+into consideration, I try to aim for a fermentation time of around 8 to 12 hours. This seems to be
+the sweet spot for most of the flours that I have worked with. To achieve this,
+I use around 5% of sourdough starter in summer times
+(temperatures around 25°C (77°F) in the
+kitchen). In winter times I opt for around 10% up to
+20% sourdough starter (kitchen temperature around
+20°C (68°F)). This
+allows me to use a sourdough starter that's not in perfect condition. As
+explained earlier, your
+bread dough is essentially a gigantic starter. The low inoculation rate allows
+the starter to regrow inside your main dough into a desirable balance.
+Furthermore, the enzymes have enough time to break down the flour. This also
+allows me to skip the so-called autolysis step completely (more in the next section).
+This greatly simplifies the whole process.
+
+## Autolysis
+
+
+Autolysis describes the process of just mixing flour and water and letting
+this sit for a period of around 30 minutes up to several hours. After this
+process is completed, the sourdough starter and salt are added to the
+dough[^2].
+
+The overall time that flour and water are in contact is extended. Thus you get the
+beneficial enzymatic reactions that improve the taste and characteristics of the
+dough. I do not recommend autolysis as it adds an unnecessary step to the
+process. Instead, I recommend the fermentolysis technique which will be covered in the
+next section of this book.
+
+The effects of autolysis are very interesting. Try to mix just flour and
+water and let that sit for a day. During the day, check the consistency of
+your dough. Try and stretch the dough. If you dare, you can also taste the
+dough throughout the day. With each hour, your dough will become
+more extensible. It will be easier to stretch the dough. At the same time, your
+dough will start to taste sweeter and sweeter. The protease and amylase enzymes
+are doing their job. The same process is used when making oat milk. By letting
+the mixture sit for some time, enzymes work on the oats. The taste is perceived as
+sweeter and more appreciated. This process is further accelerated the more
+whole-grain your flour is. The hull contains more enzymes. The gluten network
+will ultimately tear, and your dough flattens out. For wheat sourdough, this is
+your worst enemy. When this happens, your dough will become leaky and release
+all that precious gas created during the fermentation. You need to find the
+right balance of your dough breaking down just enough and not too much.
+
+When you use a high inoculation rate of around 20% sourdough starter
+your fermentation can be very quick. At 25°C it could be finished in as little as 5 hours.
+If you ferment longer, your dough becomes leaky. At the same time, in
+these 5 hours, the enzymes have not broken down the flour enough. This means
+the dough might not be as elastic as it should be. Furthermore, not enough
+sugars have been released and thus the flavor after baking is not good
+enough[^3]. That's why bakers opt for autolysis. The autolysis starts the enzymatic
+reactions before the microorganism fermentation begins. This way after 2 hours
+of autolysis (an example) and 5 hours of fermentation the dough is in the
+perfect state before beginning proofing.
+
+When you try to mix your salt and starter into the flour/water dough you will
+notice how cumbersome this is. It feels like you have to knead again from scratch
+one more time. You will spend more time mixing dough.
+
+For that reason, I am strongly advocating utilizing the fermentolysis approach
+which greatly simplifies the mixing and kneading process.
+
+## Fermentolysis
+
+
+The fermentolysis creates the same advantageous dough properties the
+autolysis creates without the headache of mixing your dough twice. You do this
+by extending the fermentation time of your dough. Rather than doing a 2-hour
+autolysis and 5-hour bulk fermentation you opt for an overall 7-hour
+fermentation period.
+
+To do this, you use less sourdough starter. A conventional recipe including the
+autolysis step might call for 20% sourdough starter. Simply reduce this
+value to 5–10%. The other option could be to place the dough in a colder
+environment and thus reduce the speed at which your microorganisms replicate.
+
+
+| S[table-format=2.0] S[table-format=2.1]@{}} | **Amount (%) for a starter** |  |
+| --- | --- | --- |
+|  **°C / °F** | **Recently fed** | **Starving** |
+| 30 / 86 | 5 | 2.5 |
+| 25 / 77 | 10 | 5 |
+| 20 / 68 | 15 | 10 |
+
+*A table visualizing how much sourdough
+            starter to use depending on temperature and the starter's activity
+            level.*
+
+
+Based on my experience and my sourdough, my ideal bread always takes around 8
+to 12 hours during bulk fermentation. Based on my availability throughout the
+day, I use a higher or lower starter quantity. If I wanted to achieve a
+completed fermentation in 8 hours, I would opt for a 10%
+sourdough starter. If I wanted it to be ready in 12 hours, I would opt for
+less starter, around 5%.  Simply mix all the ingredients and
+your fermentation begins. The enzymes and microorganisms commence their work.
+On a very warm summer day, the mentioned quantities no longer work. With a
+10% starter, the same dough would be ready in 5 hours up to a
+point of no return. Another additional hour would cause the dough to break
+down too much. In this case, I would opt for 5% sourdough
+starter to slow the whole process down to reach the 8 to 12 hour window again.
+If it is very hot, I might use as little as 1% sourdough
+starter[^4]. You have to play with the timings on your
+own.  Rather than relying on timing though, I will show you a much better and
+more precise approach by using a fermentation sample. This will be covered
+later in this chapter.
+
+Even for yeasted doughs, I no longer use autolysis. I just reduce the amount
+of yeast that I am using. Opting for the fermentolysis will
+save you time and simplify your bread-making process. As mentioned in previous chapters,
+the secret to making great bread is a slow but not too slow fermentation.
+
+## Dough strength
+
+Dough strength is a fancy way to describe the bread-kneading process. As you wait and
+knead, the gluten bonds in your dough become stronger. The dough
+becomes more elastic and holds together better. This is the basis for trapping
+all the gases during the fermentation process. Without the gluten network,
+the gases would just diffuse out of your dough.
+
+
+**Flowchart:** *The gluten development process for a wheat-based dough.*
+
+
+It might sound odd, but the most important part of kneading is waiting. By
+waiting you are allowing your flour to soak up water. This way the gluten
+bonds of your dough form automatically and your dough becomes more elastic.
+So you could be kneading for 10 minutes initially just to be surprised
+that kneading 5 minutes and waiting 15 minutes has the same effect.
+
+The gluten proteins glutenin and gliadin virtually instantly bond after being
+hydrated. Disulfide bonds enable the longer portions of
+glutenin to join with one another and form sturdy, extensible molecules.
+Glutenins add strength, whilst the more compact gliadin proteins allow
+the dough to flow like a fluid. Ultimately, the longer you wait, the more
+your gluten network transforms into a web-like structure. This is what
+traps the gases during the fermentation process [how does gluten work].
+
+
+*A schematic
+      visualization of automatic gluten development. The doughs are not
+      kneaded, just initially mixed.  Note how dough strength deteriorates
+      over time as enzymes break down the flour. The effect is accelerated for
+      sourdough due to the bacteria's gluten proteolysis.*
+
+
+The soaking process has to be extended the more whole-wheat flour is used.
+The purpose of the wheat kernel's outer bran is to soak up water as fast
+as possible. The enzymes become activated and start the sprouting process.
+Because of this, less water is available for the gluten bonds to develop.
+Either wait a bit longer or proceed and use slightly more water for
+the dough.
+
+This is the same principle that popular no-knead recipes follow. By making a less
+hydrated dough and waiting your gluten network automatically forms. You still
+have to mix and homogenize the ingredients. You wait a few minutes just to
+find your dough having developed incredible dough strength with no additional
+kneading[^5].
+
+If you over-hydrate your dough at the beginning it becomes more difficult
+for the gluten chains to form. The molecules are not as close together in
+a wetter dough compared to a stiffer dough. It is harder for the molecules
+to align and form the web structure. For this reason, it is always easier
+to start with lower hydration and then increase the water quantity if needed.
+This is also commonly known as the *Bassinage method*. The gluten
+bonds have formed at the lower hydration and can then be made more extensible
+by adding water and kneading again. This is a great trick to make
+a more extensible dough with lower-gluten flour [bassinage technique].
+
+When machine kneading a dough, opt for the same technique shown in
+the flowchart.  Initially opt for a low
+speed. This helps the homogenization process.
+After waiting to allow the flour to soak up the water, proceed on a higher speed
+setting. A good sign of a well-developed gluten network is
+that your dough lets go of the container. This is because of the gluten's elasticity.
+The elasticity is higher than the desire of the
+dough to stick to the container.
+
+
+![A schematic visualization
+      of gluten development in sourdoughs with different kneading techniques.
+      A combination of techniques can be utilized to achieve maximum dough
+      strength.](images/dough-strength-sourdough)
+
+*A schematic visualization
+      of gluten development in sourdoughs with different kneading techniques.
+      A combination of techniques can be utilized to achieve maximum dough
+      strength.*
+
+
+Generally, the more dough strength you create, the less sticky your dough is going to
+feel. As the dough holds together, it will no longer stick to your hands as
+much. This is a common problem beginners face. Sticky dough is frequently
+the sign of a not well enough developed gluten network.
+
+
+![A schematic visualization of how a rough
+      dough surface creates more touch points compared to a smooth dough
+      surface.  By touching the rough surface the dough will swell and get into
+      contact with more areas of your hand.](images/dough-surface-touchpoints)
+
+*A schematic visualization of how a rough
+      dough surface creates more touch points compared to a smooth dough
+      surface.  By touching the rough surface the dough will swell and get into
+      contact with more areas of your hand.*
+
+
+Kneading more is generally beneficial in almost all cases, as it results in a
+stronger gluten network. However, when making soft milk breads, you might prefer
+a more extensible dough from the start. In this scenario, excessive kneading
+could lead to a chewier final bread, which is not desirable if you aim for a
+fluffier texture. Achieving this fluffier dough can be accomplished by kneading
+less. While this is an exception, properly kneading your wheat-based doughs
+is generally advised.
+
+When you use a stand mixer, you can run into the issue of kneading too much. This
+is almost impossible in practice though. Even after kneading for 30 minutes on medium
+speed, my doughs hardly ever were over-kneaded. The moment you knead
+too much, the color of the dough can begin to change. You mostly
+notice this, though, during baking. The resulting loaf looks very
+pale and white. This is because mixing dough causes oxidation,
+which is necessary for the development of gluten.
+However, if the dough is mixed too much, the compounds that contribute
+to the bread's flavor, aroma, and color may be destroyed, negatively
+affecting the quality of the bread [oxidization dough].
+
+The last step before beginning bulk fermentation is to
+create a smooth dough ball. By making sure your dough's surface is
+smooth, you will have fewer touch points when touching the dough.
+See the figure for a schematic visualization
+of how your hand touches a rugged and smooth dough.
+With the smooth surface, your dough is going to stick less on your hands. Applying
+later stretches and folds will be a lot easier. Without a smooth
+surface, the dough becomes almost unworkable. Folding the dough later
+becomes an impossible task. This is a frequent mistake I see many
+new bakers commit.
+
+
+![The transformation of a sticky dough
+      blob to a dough with a smooth surface. The goal is to reduce surface
+      touchpoints with your hands to make the dough less sticky when working
+      it.](images/dough-ball-steps)
+
+*The transformation of a sticky dough
+      blob to a dough with a smooth surface. The goal is to reduce surface
+      touchpoints with your hands to make the dough less sticky when working
+      it.*
+
+
+To make the dough's surface smooth, place your dough on a wooden board or
+on your kitchen's countertop. Drag the dough with your palm over the surface.
+A dough scraper could be used here for assistance.
+Drag the dough towards you while making sure the top center of the dough stays in place.
+It can help to gently place your second hand on top of the dough so that
+the dough mass moves while retaining its orientation. Once the whole dough
+is too close to the edge of the container/countertop, gently move it back
+with two hands. By doing so, you are stretching the outer surrounding gluten layer.
+For this reason, it is important to not use any flour during this process.
+By using flour, you can no longer drag the dough over the surface and thus
+you can't stretch the gluten. Always imagine you are touching something utterly sticky.
+By doing so you will automatically try to touch the dough as little
+as possible. Keep repeating the process until you see that the dough
+has a nice smooth surface. The final dough should look like the dough
+shown in the figure.
+
+If your outer gluten layer tears, you have overstretched your dough. In
+that case, take a 10-minute break, leaving your dough on the kitchen countertop.
+This allows the gluten to re-bond and heal. Repeat the same process
+and the damaged rugged areas should disappear.
+
+The same dough-rounding technique is used later during
+the pre-shaping process. After creating dough strength you
+have all the time you need to practice rounding. Round the dough
+as much as possible until it tears. Then wait the aforementioned 10 minutes and repeat.
+Later, you don't have any room for error. Your technique has to be on point.
+An over-pre-shaped dough can potentially not recover.
+
+## Bulk fermentation
+
+
+After mixing the starter into your dough, the next stage of
+the process known as bulk fermentation begins. The term
+*bulk* is used because in bakeries, multiple loaves are fermented
+together in bulk. If you are a home baker, you might bulk
+ferment a single loaf. The bulk fermentation ends when you
+divide and pre-shape, or directly shape your final loaves or loaf.
+
+The hardest part when making sourdough bread is controlling
+the fermentation process. Bulking long enough but not too
+long is the deciding factor for making great bread at home.
+Even with poor shaping and baking techniques, you'll be able
+to make excellent bread, solely by mastering the bulk
+fermentation process.
+
+With a too-short bulk, your crumb will be
+perceived as gummy. Your crumb will feature large pockets of
+air commonly referred to as *craters*. A too-long fermentation
+results in the dough breaking down too much. The resulting
+dough will stick to your banneton and spread while baking
+into a pancake-like structure.
+
+The key is to find the sweet spot between not too little
+and not too much bulk fermentation. I'd always recommend pushing
+the dough more toward a longer fermentation. The
+flavor of the resulting bread is better compared to a pale
+underfermented dough.
+
+
+|  | **Fermentation** |  |  |
+| --- | --- | --- | --- |
+|  | **Too short** | **Too long** | **Perfect** |
+| Crumb texture | Unbaked gummy areas towards the bottom of the bread. | Crumb can be perceived as gummy as most gluten broken down. | Crumb evenly baked. Crumb can be perceived as moist, but not gummy. |
+| Alveoli | Overly large alveoli in the crumb "craters". | Many tiny alveoli equally distributed. | Alveoli evenly distributed, no "craters". |
+| Taste | Pale neutral taste. | Strong acidic flavor profile. Acidity overweighs when tasting. | Balanced flavor profile, not too mild but also not too sour. Depending on starter vinegary or lactic notes. |
+| Texture | Overall poor texture. | Good consistency, crumb is not as fluffy as it could be. | Great combination of  textures. |
+| Oven spring | Vertical oven spring, mostly due to water evaporating and inflating the dough. | Very flat pancake like  structure after baking. | Great vertical oven spring. Dough grows more upwards rather than sideways. |
+
+*The different stages of
+            sourdough fermentation and the effects on crumb, alveoli, texture,
+            and overall taste.*
+
+
+The worst thing you can do when fermenting sourdough
+is to rely on a recipe's timing suggestions. In 99%
+of the cases, the timing will not work for you. The writer
+of the recipe probably has different flour and a different
+sourdough starter with different levels of activity. Furthermore,
+the temperature of the fermentation environment might be
+different. Just small changes in one parameter result
+in a completely different timing schedule. One or two hours'
+difference results in the dough not fermenting long enough, or
+turning it into a gigantic sticky fermented pancake. This
+is one of the reasons why the current baking industry prefers
+to make solely yeast-based doughs. By removing the bacteria
+from the fermentation, the whole process becomes a lot more
+predictable. The room for error (as shown in
+the figure) is much larger. The doughs
+are perfect to be made in a machine.
+
+
+**Flowchart:** *During the bulk
+      fermentation, multiple doughs are fermented together in bulk.  A
+      challenging aspect of homemade sourdough bread is to determine when this
+      stage of fermentation is completed. This chart shows multiple available
+      options to check on the bulk fermentation progress.*
+
+
+Experienced bakers will tell you to go by the look and feel of
+the dough. While this works if you have made hundreds of loaves,
+this is not an option for an inexperienced baker. As
+you make more and more dough, you will be able to judge
+the dough's state by touching it.
+
+My go-to method for beginners is to use an *Aliquot jar*.
+The aliquot is a sample that you extract from your dough. The
+sample is extracted after creating the initial dough strength.
+You monitor the aliquot's size increase to judge the
+level of fermentation of your main dough. As your
+dough ferments, so does the content of your aliquot jar. The moment your
+sample reached a certain size, your main dough is ready
+to be shaped and proofed. The size increase you should
+aim for depends on the flour you have at hand. A flour
+with a higher gluten content can be fermented for a
+longer period. Generally, around 80%
+of your wheat flour's protein is gluten. Check your flour's
+packaging to see the protein percentage. The actual size increase
+value is highly variable depending on your flour composition.
+I recommend beginning with a size increase of 25% and testing
+up to 100% with subsequent bakes. Then identify a value
+that you are happy with.
+
+
+| **Flour protein content** | **Relative aliquot size increase** |
+| --- | --- |
+| 8–10% | 25% |
+| 10–12% | 50% |
+| 12–15% | 100% |
+|  15% |  100% |
+
+*Reference values for
+            how much size increase to aim for with an aliquot jar depending on
+            the dough's protein content.*
+
+
+The beauty of the aliquot is that no matter the surrounding
+temperature, you will always know when your dough is ready.
+While the dough might be ready in 8 hours in summer, it could
+easily be 12 hours in winter. You will always ferment your
+dough exactly on point.
+
+
+![An aliquot jar to monitor the dough's fermentation
+      progress.  It took 10 hours for the dough to reach a 50%
+      size increase.](images/aliquot-before-after)
+
+*An aliquot jar to monitor the dough's fermentation
+      progress.  It took 10 hours for the dough to reach a 50%
+      size increase.*
+
+
+While the aliquot sample has enabled me to consistently bake
+great loaves, there are limitations to consider. It's crucial
+to use a cylindrical-shaped container to properly judge
+the dough's size increase. Furthermore, it is essential
+to use room-temperature water when making your dough. If the
+water is hotter, your aliquot, due to its smaller size,
+will cool down faster. The aliquot will ferment more slowly
+than your dough. Similarly, when you use too cold water,
+your sample will heat up faster than the large dough mass.
+In that case, your aliquot is ahead of your main dough. You
+would probably stop the fermentation too early. Make sure
+to keep the dough and aliquot close together. Some people even
+place the aliquot in the same container. This makes sure that
+both are in the same environment temperature. The aliquot
+is also less reliable if your ambient temperature changes
+a lot during the day. In that case, your aliquot will adapt
+faster than your main dough. The readings will always be slightly
+off. If you are making a large chunk of dough with more
+than 10 kg of flour, the jar is also less reliable. The biochemical
+reactions happening inside your dough will heat it.
+The fermentation itself is exothermic which means
+that it produces heat.
+
+Another more expensive option is to use a pH meter
+to monitor your dough's fermentation state. As the lactic
+and acetic acid bacteria ferment, more acidity is piled
+up inside your dough. The acidity value (pH) can be
+measured using such a meter. The more acidity, the lower the pH
+value of your dough. The pH scale is logarithmic, meaning
+that each digit change will have a 10x increase in acidity.
+A sourdough dough might begin fermenting at pH 6.0,
+then shortly before baking has roughly pH 4.0. This means
+that the dough itself is 10x times 10x (= 100x) sourer
+than at the beginning. By using the meter, you can always
+judge the state of your dough's acidification and then act
+accordingly.
+
+To use the pH meter successfully, you need to find pH values
+that work for your dough. Depending on your starter,
+water, and flour composition, the pH values to look out
+for are different. A stronger flour with more gluten
+can be fermented for a longer period. To find out
+the pH values for your bread I recommend taking
+several measurements while making your dough.
+
+1. Measure the pH value of your sourdough starter before using it
+2. Check the pH after mixing all the ingredients
+3. Check the pH before dividing and pre-shaping
+4. Check the pH before shaping
+5. Check the pH of your dough before and after proofing
+6. Check the pH of your bread after baking
+
+If the bread you made turned out successfully with your values,
+you can use them as a reference for your next batch. If the
+bread didn't turn out the way you like, either shorten
+the fermentation or extend it a little bit.
+
+
+| **Step** | {**pH Value**} |
+| --- | --- |
+| Starter ready | 4.20 |
+| Mixing | 6.00 |
+| Dividing/preshaping | 4.10 |
+| Shaping | 4.05 |
+| Before proofing | 4.03 |
+| After proofing | 3.80 |
+| After baking | 3.90 |
+
+*Example pH values for
+            the different breakpoints of my own sourdough process.*
+
+
+The beauty of this method is its reliability. Once you have found
+out your good working values, you can reproduce
+the same level of fermentation with each subsequent dough.
+This is especially handy for large-scale bakeries that want
+to achieve consistency in each bread.
+
+While this method is very reliable, there are also certain
+limitations to consider.
+
+First of all the pH values that work for me likely won't work for
+you. Depending on your own starter's composition of lactic
+and acetic acid bacteria, your pH values will be different.
+You can use the values shown in the table below
+as rough ballpark figures. Regardless, you need to find values
+that work for your setup.
+
+Another limitation is the price. You will need to purchase
+a high-tech pH meter, ideally, a meter featuring a spearhead
+[^6].
+This way you can directly poke the meter deep into the dough.
+At the same time, automated temperature adjustments are a
+feature to look out for. Depending on the temperature,
+the pH value varies. There are tables you can use to
+do the adjustment calculations. More expensive meters
+have this feature built in. The pH meter loses accuracy
+over time. For this reason, you need to frequently
+calibrate it. The process is cumbersome and takes time.
+Lastly, you need to carefully rinse the pH meter before
+using it in your dough. The liquid surrounding the
+head of your pH meter is not food-safe and thus should
+not be eaten. I rinse the meter for at least one minute
+before using it to measure my dough's fermentation stage.
+
+The last method to judge the state of bulk fermentation
+is to read the signs of your dough. The more bread you have
+made, the more accustomed you will become to this process.
+Look out for the dough's size increase. This can sometimes
+be a challenge when your dough is inside a container.
+You can help yourself by marking your container. Some bakers
+even use a transparent rectangular bulk container. You
+can use a pen to mark the initial starting point. From there
+on you can nicely observe the size increase. Similar to the
+mentioned aliquot sample, look out for a size increase that works
+for your sourdough composition.
+
+
+![A dough in a good state to
+      finish bulk fermentation. Notice the tiny bubbles on the dough's surface.
+      They are a sign that the dough is inflated well enough.](images/bulk-finished-dough)
+
+*A dough in a good state to
+      finish bulk fermentation. Notice the tiny bubbles on the dough's surface.
+      They are a sign that the dough is inflated well enough.*
+
+
+Look out for bubbles on the surface of your dough. They
+are a good sign that your dough is inflated with gas. The
+further you push the bulk fermentation the more bubbles
+will appear. If you overdo this stage, the dough becomes leaky, and
+the bubbles will disappear again.
+
+Take note of the dough's smell. It should match the same
+smell of a ripe starter shortly before collapsing. As mentioned
+before, your dough is nothing but a gigantic starter. You
+can also proceed and taste your dough. It will taste like
+pickled food. Depending on the acidity you can judge how
+far the dough is in the fermentation process. The final bread
+will taste less sour. That's because a lot of acidity evaporates
+during baking[^7].
+
+When touching the dough, it should feel tacky
+on your hands. The dough should also be less sticky
+compared to earlier stages. If the dough is overly
+sticky, you have pushed the fermentation too far.
+
+If you pushed the bulk fermentation too far, you won't be able
+to bake a freestanding loaf with the dough anymore. But don't
+worry. You can move your dough into a loaf pan, or use parts
+of the dough as the starter for your next dough. When using
+a loaf pan, make sure it's properly greased. You might have
+to use a spatula to transfer your dough. Allow the dough
+to proof for at least 30 minutes in the loaf pan before
+baking it. This makes sure that large cavities induced
+by the transfer are evened out. You could push the proofing
+stage to 24 hours or even 72 hours. The resulting
+bread would feature an excellent, very tangy taste.
+
+
+## Stretch and folds
+
+
+![A dough where two sticky sides are being glued
+      together using a stretch and fold. This process creates excellent dough
+      strength.](images/dough-being-glued)
+
+*A dough where two sticky sides are being glued
+      together using a stretch and fold. This process creates excellent dough
+      strength.*
+
+
+In this section, you will learn all you need to know about stretching and
+folding. You will learn when to stretch and fold and how to use this technique
+to your advantage.
+
+Stretching and folding is a set of techniques used by bakers during the bulk
+fermentation stage. The process involves stretching the dough and then
+folding the dough onto itself. Some recipes call for a single stretch
+and fold, others for multiple.
+
+The primary goal of this technique is to provide additional dough strength to
+your dough. As shown in the figure there are
+multiple ways to create dough strength[^8].
+If you do not knead as much at the start, you can reach the same level of
+dough strength by applying stretch and folds later. The more stretch and folds
+you do, the more dough strength you add to your dough. The result will be a
+more aesthetic loaf that has increased vertical oven spring.
+
+Sometimes, if the dough is very extensible
+and features very high hydration, stretching and folding is essential.
+Without it, the dough itself would have too little dough strength and not
+spring in the oven at all.
+
+Another benefit of stretch and folds are their homogenization properties. By
+folding the dough you are redistributing areas that are fermenting faster
+than other areas. The heat in your dough is not the same in all areas.
+The fermentation itself produces heat. For that reason, some of the areas in
+your dough will ferment a little faster than others. This means that some
+areas hold more gas and more acidity than others. Applying a stretch and fold
+will redistribute heat, gas, and acidity. Some bakers also refer to this
+process as crumb building. Careful folds ensure that your final dough's crumb
+is not overly wild featuring large cavities. If you notice overly
+large cavities in your final dough's crumb, then you might be able to fix that
+by applying more stretch and folds[^9]. Please refer to the relevant section
+"sec:debugging-crumb-structure" for more information on reading
+your crumb.
+
+
+![An overview of the steps involved to perform
+      stretch and folds for wheat-based doughs.](images/stretch-and-fold-steps)
+
+*An overview of the steps involved to perform
+      stretch and folds for wheat-based doughs.*
+
+
+The reason for the technique's popularity lies in its efficiency. By stretching
+the dough outwards, you increase your dough's surface area. You then fold the
+dough over, essentially gluing large areas of the dough together. Imagine a
+piece of paper on which you place the glue. Then you fold the paper. Large areas
+of the paper now stick together. Repeat the same process with more glue until
+you have created multiple layers of paper and glue. This is the same thing that
+happens to your dough. With only very few movements you have applied glue to your
+dough.
+
+To apply a stretch and fold first wet your hands with cold water. Watered hands
+work wonders in reducing the dough's tendency to stick to your hands. Proceed and
+carefully loosen the dough from the edges of your bulk container. Do this by
+carefully placing your hand at the edge of the dough and pushing your hand
+downwards on the container's walls. Once you have reached the bottom, drag the dough
+a little bit inwards. The dough should stay in place and not move back to the
+edge of your container. Try to be as swift as possible with this motion. The
+slower you are, the more dough will stick to your hands. Repeat the same process
+once all around your dough until the dough is free of your container's edges.
+Wet your hands one more time and then carefully lift one side of the dough with
+two hands placed in the center upwards. Make a fold in the center of the dough.
+The upper smooth side needs to be placed on the bottom of the container. By doing
+so, you will be gluing together the two sticky bottom sides. The top smooth
+side should not be sticky in your hands, while the bottom rough surface should
+tend to stick to your hands. Rotate the container and repeat the same thing
+from the other side. Rotate the container 90 and then repeat the process
+once again. Rotate the container another 180 in the same direction and
+repeat the fold one last time. By doing so you have applied four folds in
+total. Your dough should now stay in place and resist flowing
+outwards[^10].
+
+In theory, there is no limit to how often you can stretch and fold. You could
+apply one every 15 minutes. If your dough has enough dough strength already,
+applying additional folds is just a waste of time[^11]. If you apply a large number of consecutive folds, the
+outer layer of gluten
+will tear. In that case, you just have to wait for at least 5–10 minutes until
+the gluten bonds heal and you can try again. When the gluten does not heal
+anymore, chances are you have pushed the fermentation for too long. Likely
+most of the gluten has broken down and you are already
+in the decay stage shown in the figure.
+
+
+![A dough during bulk fermentation that has
+      flattened out. To improve its dough strength, a stretch and fold should
+      be applied.](images/dough-requiring-stretch-and-fold)
+
+*A dough during bulk fermentation that has
+      flattened out. To improve its dough strength, a stretch and fold should
+      be applied.*
+
+
+Now, the reasonable amount of stretch and folds you should do greatly depends on how much you
+kneaded initially and how extensible your dough is. A good recommendation is
+to observe your dough in your bulk container. Once you see that the dough
+flattens out quite a lot and spreads towards the edges of your bulk container,
+you can proceed and apply a stretch and fold. For 95% of the doughs
+that I am making, this is hardly more than once. I like to make overnight
+doughs and in that case, I typically apply one stretch and fold directly after
+waking up. Then the bulk fermentation might take another 2 hours before I proceed
+with dividing and pre-shaping or directly shaping.
+
+## Optional: Dividing and Preshaping
+
+Dividing and pre-shaping is an optional step that is done
+once your sourdough finishes with the bulk fermentation stage.
+The step is required if you are making multiple loaves in one
+batch. It is optional if you are making a single loaf.
+
+
+**Flowchart:** *Dividing is only required when you are
+      making multiple loaves in a single dough batch.*
+
+
+The goal of dividing your dough into smaller pieces is to portion
+your dough accordingly. This way you'll have multiple pieces of bread
+which all weigh the same. For this reason, a scale is commonly
+used to weigh the pieces of dough. If one piece of dough weighs
+too little you can simply cut a bit more from your dough blob
+to increase its weight.
+
+When cutting the dough, try to be as concise as possible with your
+movements. You don't want to unnecessarily damage your dough too much.
+Quick movements with a knife or dough scraper help to prevent the
+dough from sticking too much to your tools.
+
+
+![The steps of dividing and preshaping your dough.](images/divide-preshape)
+
+*The steps of dividing and preshaping your dough.*
+
+
+I sometimes like to draw small lines with the dough scraper's edge
+on the large dough mass before cutting it into smaller pieces.
+This helps me to better plan where I want to do my incisions. When
+I plan to make 8 loaves I try to use the lines to divide the dough
+into 8 equally sized portions before cutting. If this is not precise enough,
+you can use the aforementioned scale.
+
+Now that you have cut your dough, the resulting chunks are not in an equal shape.
+This is problematic for the next stage when you are shaping your dough.
+The resulting loaves wouldn't look nice and even. You would probably
+end up with areas that tear the moment you are shaping your dough.
+You wouldn't start the whole proofing process on a good foundation. For that
+reason, you need to pre-shape your dough.
+
+Pre-shaping is done for several reasons:
+- You divided your dough and require pre-shaping
+- Your dough lacks dough strength. Pre-shaping will add more strength
+- You want to even out the final loaf's crumb structure. By pre-shaping, the resulting crumb will look more even.
+
+If you are making a single loaf from one dough batch the step is not required.
+In that case, you can directly proceed with shaping, skipping this step.
+
+The pre-shaping technique is the same as the process
+the figure.  Whereas earlier you could tear the dough's
+surface this could now result in a catastrophe.  For this reason, I recommend
+practicing this step for as long as you need after kneading.  The gluten
+network might be so extensible and degraded at this point that there is hardly
+any room for error. The dough wouldn't come together again. The only way to
+save such dough is to use a loaf pan.
+
+
+![Drag the dough in the direction of the rough
+      surface area. This way you minimize the movements required to complete
+      the step.](images/preshape-direction)
+
+*Drag the dough in the direction of the rough
+      surface area. This way you minimize the movements required to complete
+      the step.*
+
+
+Pre-shape the dough as much as is needed to round up the top surface area. Try
+to touch the dough as little as possible to reduce its ability to stick to
+your hands. Drag the dough in the direction where you see a rough surface
+area. In case you have too little space to drag the dough because it might
+fall from the edge of your counter, simply lift it with a swift movement and
+place it in a better position for pre-shaping. Please refer to
+the figure for a visualization showing the
+pre-shaping direction.
+
+Try to set yourself a limit of movements to finish pre-shaping
+a dough. Then you will be more conscious about each movement
+you are performing. At the start you can try 5 movements,
+iteratively reducing this to 3. The only reason for exceeding these
+numbers could be if you on purpose want to even out the crumb
+structure of your final loaves further.
+
+
+![Baguette doughs resting after preshaping.](images/preshaped-dough)
+
+*Baguette doughs resting after preshaping.*
+
+
+Once you finished pre-shaping allow the dough balls to rest
+on your counter for at least 10–15 minutes. Do not
+cover the pre-shaped balls. By drying out the surface,
+the following shaping step will be easier. The dried-out surface
+will not stick to your hands as much. As
+you tightened the dough's gluten you will need to
+allow it to relax. Without a resting period, you wouldn't
+be able to shape your dough into, for instance, a baguette-like structure.
+The dough would resist each movement
+always springing back into the previous shape. You
+might have noticed this before, when making pizza dough. If you
+don't wait long enough after balling the pizzas, it's impossible
+to stretch the pizza. By waiting a few more minutes,
+stretching becomes a lot easier. The dough will not resist
+being transformed into the final shape that you like.
+
+The aforementioned 10–15 minutes bench rest time depends
+on how strongly you pre-shaped your dough. The more
+you pre-shape the longer you need to wait. If your dough
+resists a lot during shaping, extend this period up to 30 minutes.
+If you wait too long, your dough's surface area can become too dry,
+resulting in the dough tearing during shaping. As always, please
+take these timings with a grain of salt and experiment in
+your environment.
+
+## Shaping
+
+
+**Flowchart:** *A schematic visualization of the shaping process
+      including checks for an overfermented dough.*
+
+
+Shaping will give your dough the final shape before baking. After
+completing shaping, your dough proceeds to the proofing stage and
+will then be scored and ultimately baked.
+
+There are countless shaping techniques. The technique to choose
+depends on the type of bread you want to make. Some techniques
+are gentler on the dough, making sure that the dough does not
+degas. Other techniques are faster but degas the dough a little
+more. The tighter you shape, the more evened out your final dough's
+crumb structure will look. At the same time, a tighter shaping-technique
+will improve your dough's strength. More strength will ultimately result
+in more vertical oven spring.
+
+The following instructions assume that you want to make a batard-style
+bread featuring an oblong shape. Learning this technique
+will provide you with a solid knowledge foundation that
+can easily be extended to make bread rolls or baguettes.
+
+Mastering the challenging shaping technique will likely take you
+multiple attempts. You only have a single attempt per dough, though. If you
+make a mistake, the final bread is likely not going to turn out as good
+as it could. If this technique causes you a headache, I recommend making
+a larger batch of dough and dividing and preshaping it into
+smaller portions. Instead of making a large batard, practice making miniature
+batard bread rolls.
+
+### Apply flour to the dough's surface.
+
+
+![A dough that has flour applied to its
+      surface. This is the first step of the shaping process.](images/step-1-flour-applied)
+
+*A dough that has flour applied to its
+      surface. This is the first step of the shaping process.*
+
+
+If you are only making one loaf out of your dough, apply flour
+generously to the top layer of your dough. Rub the flour onto your
+dough with your hands. Flip over your container. Wait a little bit
+to allow the dough to release itself from the container. Proceed
+with step 3.
+
+If you divided and pre-shaped, apply flour generously to the dough's
+top layer as well. With gentle hands spread the flour evenly across
+the dough's surface. See the figure for a
+visual representation of how your dough should look after coating
+the surface.
+
+### Flip the dough over
+
+
+![A flipped-over dough. Note how the
+      sticky side is facing you while the floured side is facing the
+      countertop.  The sticky side is used as glue to hold the dough together.](images/step-2-flipped-over)
+
+*A flipped-over dough. Note how the
+      sticky side is facing you while the floured side is facing the
+      countertop.  The sticky side is used as glue to hold the dough together.*
+
+
+With gentle hands, carefully remove the dough from the surface. If
+you possess a dough scraper, carefully tuck it under the dough with
+rapid movements. Flip the dough over, making sure that the floured
+areas are in contact with your hands. The non-floured bottom area that was
+stuck to the counter is a no-touch zone. Try to avoid touching it
+as it is rough and thus will stick to your hands.
+
+Gently proceed and place the dough with the previously top-facing side
+on your counter. The floured area is now on the surface, whereas the
+sticky side is facing you.
+
+### Make the dough rectangular
+
+
+![A flipped-over dough. Note how the
+      sticky side is facing you while the floured side is facing the
+      countertop.](images/step-3-rectangular)
+
+*A flipped-over dough. Note how the
+      sticky side is facing you while the floured side is facing the
+      countertop.*
+
+
+You should be facing the sticky side of your dough now. Note how
+the dough is currently round and not rectangular. The circular
+shape will not be ideal when shaping the oblong batard.
+
+For this reason, proceed and stretch the dough a little bit until
+it has a more rectangular shape. While stretching, make sure to touch
+the sticky side as little as possible. Place your hands on the bottom
+floured side and the edge of the sticky side. With gentle hands,
+stretch the dough until the shape in front of you looks rectangular.
+Refer to the figure and compare
+your dough with the shown dough.
+
+### Fold the dough together
+
+
+![The process of folding a batard. Note
+      how the rectangle is first glued together and then rolled inwards to
+      create a dough roll. Ultimately the edges are sealed to create a more
+      uniform dough.](images/step-4-folding)
+
+*The process of folding a batard. Note
+      how the rectangle is first glued together and then rolled inwards to
+      create a dough roll. Ultimately the edges are sealed to create a more
+      uniform dough.*
+
+
+Now that you have created the rectangular shape, your dough
+is ready to be folded together. This only works because the side
+facing you is sticky. Because of the dough's stickiness,
+we can effectively glue it together, creating a very
+strong bond.
+
+You can practice this step with a piece of rectangular paper.
+Once you mastered folding on paper you can easily apply
+this to your real-life dough.
+
+Make sure the batard is placed in front of you. Take the side
+that faces you and fold it into the middle of the dough. Carefully
+tuck it down so that it glues together with the sticky side.
+
+Take the other side and fold it over the side you just folded.
+Stretch the dough as much as possible towards you. Tuck it down
+on the edge, creating your first glue layer.
+
+Rotate the dough so that it is aligned lengthwise in front of you.
+Rotate the dough inwards so that the seam side
+now faces you.
+
+Start to roll the dough inwards beginning at the top of the dough.
+Keep rolling the dough inwards until you have created a dough roll.
+
+Refer to the figure for a full visual
+representation of the process.
+
+If your dough does not hold its shape, chances are you have pushed
+the fermentation too far. Most of the gluten has been degraded
+and the dough won't be able to hold its shape. In this case,
+the best option is to use a loaf pan to bake your bread. The
+final bread will taste amazing but not offer the same texture
+a freestanding bread would offer. Please refer to
+the relevant section for more
+details on how to properly read your dough's crumb structure.
+
+### Sealing the edges
+
+Your dough has finished shaping now. Sealing the edges
+is an optional step. I like to do it because, in my opinion,
+the final baked bread will look a little bit nicer without
+any rough edges.
+
+Gently pull together the swirl-like-looking edges of your dough
+with two fingers. Rotate the dough and then repeat the same process
+from the other side as well.
+
+### Prepare for proofing
+
+
+![The shaped dough is ready for proofing
+      in the banneton. Note how the seam side is now facing you. The floured
+      previous top side is facing downwards.](images/step-6-prepare-proofing)
+
+*The shaped dough is ready for proofing
+      in the banneton. Note how the seam side is now facing you. The floured
+      previous top side is facing downwards.*
+
+
+You should have a beautifully shaped dough in front of you now.
+The proofing stage is about to start. To simplify later
+scoring and to make sure your dough won't stick to your banneton,
+apply another flour rub to the dough's surface. This
+will dry out the surface and reduce the dough's tendency
+to stick to everything.
+
+For the coating, I recommend using the same flour you used
+to make your dough. Rice flour is only recommended if you
+want to apply artistic scoring patterns later. It is better
+to use more flour than too little flour. Excess flour can be
+brushed off later.
+
+Once your dough has been coated, it is ready to be placed on your banneton.
+If you do not have a banneton, you can use a bowl
+with a kitchen towel inside.
+
+The currently top-facing floured surface will be downwards-facing in your banneton.
+By doing so the banneton can be flipped
+over before baking, releasing the dough[^12].
+
+Proceed and lift the dough with both hands from the counter.  Gently rotate it
+once and then place the dough in your banneton for proofing[^13].
+If you did everything right, then your dough should look somewhat similar to
+the dough shown in the figure.  As the last
+step of shaping, place a kitchen towel over your banneton or bowl and begin
+proofing.
+
+## Proofing
+
+In bread baking, proofing refers to the final rise of dough before baking,
+after it has been shaped into a loaf. The chemical reactions and processes
+that occur during bulk fermentation and proofing are the same.
+
+By shaping your dough, it has lost some of the air previously generated
+throughout the bulk fermentation. The goal of proofing is to inflate
+the dough again. A dough without proofing wouldn't offer the same texture
+as a properly proofed dough. The proofed dough features a very fluffy
+and soft crumb.
+
+There are two proofing techniques. One strategy is to proof the dough
+at room temperature whereas the other proofs the dough in the fridge.
+Fridge-proofing is also commonly known as retarding.
+
+Some bakers claim that cold-proofing improves the final flavor of the bread.
+In all the loaves that I retarded I could not tell a difference
+in terms of flavor for cold-proofed doughs. The microorganisms work
+at a slower rate at colder temperatures. But I doubt that they alter
+their biochemical processes. More research is needed on the topic
+of retarding and flavor development.
+
+
+**Flowchart:** *A schematic overview of the different steps of
+      the sourdough proofing process. The proofing technique to choose depends
+      on your availability and schedule.*
+
+
+To me, the sole purpose of cold-proofing is its ability to allow you to better
+manage the timing of the whole process. Assuming you finished shaping your
+dough at 10 pm, chances are you wouldn't want to wait for another 2 hours to
+proof the dough and then another hour to bake it. In this case, you can move
+your dough directly to the fridge after shaping. Your dough will be proofing
+overnight in the fridge. Then it can be baked at any time the following day
+(there are a few exceptions; more on that later).  This is especially handy
+for large-scale bakeries that use fridge-proofing extensively. Some of the
+doughs are proofed a day before and placed in the fridge.  Early in the
+morning, they can be baked directly out of the fridge. Within 2 hours they
+will be ready to sell the first bread to morning customers. If throughout the
+day more bread is needed, they simply take some proofed dough out of the
+fridge and bake it. The time frame in which you can bake retarded dough is
+big. It can be as little as 6 hours later up to 24 hours later.
+
+Assuming you made an overnight dough and your dough is ready in the morning,
+the situation might be different. You potentially want to bake the dough directly
+for breakfast, or at lunchtime. In this case, you wouldn't want to proof the dough for
+another 6 hours in the fridge. Room temperature-proofing is your technique
+of choice.
+
+To summarize, choose the technique that works for you depending on your
+schedule and availability.
+
+### Room temperature-proofing
+
+The easiest and most reliable way to proof your dough is to proof the dough at
+room temperature. It is my method of choice if my schedule allows it. This method
+works great if you make an overnight dough and then proof it the next
+morning.
+
+
+![The finger poke test is a very reliable
+      method to check if your dough has been properly proofed. If the induced
+      dent is still visible one minute later, your dough can be baked.](images/step-13-finger-poke-test)
+
+*The finger poke test is a very reliable
+      method to check if your dough has been properly proofed. If the induced
+      dent is still visible one minute later, your dough can be baked.*
+
+
+The time it takes to proof your dough can be anything between 30 minutes and
+3 hours. Rather than relying on timing, most bakers use the finger poke test.
+
+Flour your thumb and gently press around 0.5–1 deep into the
+dough.  Try this directly after shaping. You will notice that the created dent
+will recover quickly. It will be gone again after one minute.
+
+As you proceed with proofing, your dough will fill up with more gas. At the
+same time, the dough will become more extensible. Once it starts to reach the
+right amount of fluffiness and extensibility, the dent will disappear more
+slowly.  Once the dough is ready for scoring and baking the dent should still
+be visible after one minute of waiting.
+
+I recommend performing the finger poke test once every 15 minutes throughout
+the proofing stage. Realistically, based on my experience, proofing takes at least
+one hour and can sometimes take up to 3 hours. Even at warmer temperatures proofing
+has never been faster than an hour for me. As always please take my timings with
+a grain of salt and experiment on your own.
+
+Once I see that the dough is getting close to perfect proofing, I proceed and
+preheat my oven. This way I don't overproof the dough. You would notice an
+over-proofed dough when the dough suddenly becomes very sticky. At the same
+time, the dough is likely to collapse during baking and will not spring back.
+Generally, it is better to end proofing too early rather than too late.
+
+### Cold-proofing (retarding)
+
+The second proofing option is to place your dough inside the fridge for
+proofing. This option is great if you do not want to bake the dough
+within the next 3 hours.
+
+The dough will initially proof at the same rate as the room temperature dough.
+As the dough cools down the rate of fermentation slows. Ultimately at below
+4°C (40F) the fermentation comes to a halt[^14]. The dough can rest in the fridge for up to 24 hours. In some
+experiments, the dough was still good even 48 hours later. Interestingly,
+there is a limit to fridge proofing. I can only explain this with continuous
+fermentation activity at low temperatures.
+
+The hard part is to judge when the dough is finished proofing in your fridge.
+The previously mentioned finger poke test does not work on cold dough. Low
+temperatures change the dough's elasticity. The dent from the poke test
+will never recover.
+
+For this reason, finding the best fridge-proofing time is best done
+with an iterative approach. Begin with 8 hours on your first dough,
+10 hours on the second, 12 hours on the third, and so on up to 24 hours.
+As the temperature in your fridge is typically constant, you have an
+environment in which you can rely on timings. Find the ideal proofing
+time that works for you.
+
+One additional consideration is the dough's core temperature before
+placing it inside the fridge. The warmer your dough is initially
+the longer it takes for the dough to cool down. This is an additional
+variable to take into consideration when choosing the retarding time.
+In summer times when my kitchen is hot, I choose a shorter fridge-proofing
+time compared to winter times when the dough is colder.
+
+A reliable way to ensure consistent proofing is to opt for using a pH
+meter. By checking the amount of piled-up acidity you can ensure
+each of your doughs has the right amount of acidity. Opt for an iterative
+approach and check the pH for multiple proofing times. Find the pH
+value that creates the best bread for you. Once you have identified
+your perfect pH value you can resort to that number on all following
+doughs. See the table below for some sample pH values
+to follow.
+
+## Scoring
+
+Once your dough is done proofing, it's time to warm up your oven
+to around 230°C (446°F). The next step is then
+to proceed with scoring your dough.
+
+Scoring is done for two reasons. There is functional and decorative
+scoring. Functional scoring refers to making a small incision in the dough
+through which it rises while baking. If the dough is not scored,
+it would likely crack open at the weakest spots where you sealed
+the dough after shaping. Decorative scoring can be used to apply
+artistic patterns to your dough and make it more appealing. When
+you want to apply artistic scoring, it is best to rub your dough
+with additional rice flour before scoring. The white rice flour
+greatly boosts the contrast of the scoring incisions and thus
+makes the final pattern look more visually appealing.
+
+
+![The ear is a characteristic that can be achieved on
+      wheat sourdough when fermenting and scoring your dough with the perfect
+      technique. It offers additional flavor and great texture when eating the
+      bread.](images/the-ear)
+
+*The ear is a characteristic that can be achieved on
+      wheat sourdough when fermenting and scoring your dough with the perfect
+      technique. It offers additional flavor and great texture when eating the
+      bread.*
+
+
+When using a banneton, the dough is flipped over and
+placed on an oven rack, tray, stone, steel, or dutch oven. The pros
+and cons of the different baking options are covered in the next chapter.
+The dough's top side which was previously at the bottom of the
+banneton should now be facing you.
+
+
+![A loaf by Nancy Anne featuring an artistic
+      scoring pattern.  The high contrast was achieved by rubbing the dough's
+      surface with rice flour before baking. Her Instagram account
+      `simply.beautiful.sourdough` is specialized to showcase beautiful
+      artistic scoring patterns.](images/artistic-scoring)
+
+*A loaf by Nancy Anne featuring an artistic
+      scoring pattern.  The high contrast was achieved by rubbing the dough's
+      surface with rice flour before baking. Her Instagram account
+      `simply.beautiful.sourdough` is specialized to showcase beautiful
+      artistic scoring patterns.*
+
+
+The scoring cut is done at a 45 angle relative to the dough's
+surface slightly off the dough's center. With the 45 angle cut
+the overlaying side will rise more in the oven than the other side.
+This way you will achieve a so-called *ear* on the final bread.
+The ear is a thin crisp edge that offers intriguing texture
+when eating. The thin edge is typically a bit darker after baking
+and thus offers additional flavor. In my opinion, the ear turns
+a good loaf into a great loaf.
+
+
+![The 45 angle at which you score the
+      dough is relative to the surface of the dough.  When scoring more towards
+      the side, you have to adjust the angle to achieve the ear on your
+      bread.](images/bread-scoring-angle)
+
+*The 45 angle at which you score the
+      dough is relative to the surface of the dough.  When scoring more towards
+      the side, you have to adjust the angle to achieve the ear on your
+      bread.*
+
+
+The actual incision is done with a very sharp knife, or better, a razor
+blade. You can use the razor blade directly or attach it to a chopstick.
+The razor blade offers better flexibility than the sharp knife.
+Regardless, the blade should be as sharp as possible. This way when cutting,
+the dough is not torn and instead features a clean, non ragged incision.
+
+To simplify scoring, your dough's surface must be dried out a little bit.
+This way it is a lot easier to make the incision.
+For this reason, it is crucial to rub your dough with a bit of flour
+before placing it in the banneton. The dry flour will absorb some of the
+moisture of the outer layers of your dough. This is especially important
+when working with room temperature-proofed doughs. A cold-proofed dough
+is a lot easier to score due to the dough's low viscosity. The room-temperature
+dough is a lot harder to score. The scoring incision tears a lot
+easier. With a ragged incision, the dough is not as likely to properly
+rise in the oven. Chances are you will not achieve the previously mentioned
+ear. For this reason, drying out the surface is especially important. Scoring
+will become a lot easier.
+
+
+![By applying flour to your dough's surface
+      after shaping, the outer part of the dough dries out a little bit. This
+      makes scoring a lot easier as the incision is less likely to tear.](images/dry-dough-surface)
+
+*By applying flour to your dough's surface
+      after shaping, the outer part of the dough dries out a little bit. This
+      makes scoring a lot easier as the incision is less likely to tear.*
+
+
+Scoring requires a lot of practice. For this reason, I recommend
+practicing making the incision after creating dough strength. The dough
+is going to be very wet and sticky. You can use a sharp knife or razor
+blade to practice the technique. Wait a few minutes and then round
+up the dough again. You can practice this for as long as you like
+until you are happy with your technique. After proofing, you only
+have a single chance to practice scoring. It's either hit or miss.
+
+An additional trick that can help you to combine the benefits
+of room temperature-proofing and easy cold-proofing scoring
+is to place your dough in the freezer for 30 minutes before baking.
+Once you notice your dough is almost done proofing, move it to the
+freezer. The freezer will dry out the dough's surface even further
+while also lowering its viscosity, making scoring easier.
+
+Another interesting trick is to bake your dough for 30 seconds without steam.
+The hot air will dry out the dough's surface even further and simplify
+the scoring technique. Experiment with the timing to identify your personal
+sweet spot.
+
+---
+
+[^1]: Sometimes it almost feels like a comparison of skill value
+between bakers. The more water they can handle, the more skillful the baker.
+
+[^2]: I have tested adding the salt at the start and end of the
+autolysis process and could not notice a difference. Based on my current
+understanding, the importance of adding salt later seems to be a myth.
+
+[^3]: I have not seen studies yet looking at enzymatic speeds depending on
+the temperature. But I assume the higher the temperature, the faster these
+reactions. This goes up until a point when the enzymes break down under
+heat.
+
+[^4]: Please take these values with a grain of salt as they depend
+    on your flour and your sourdough starter. These are values that you have
+    to experiment with. After baking a couple of breads you will be able to
+    read your dough much better.
+
+[^5]: Give it a shot yourself. The automatic formation of gluten
+networks is an amazing phenomenon that still fascinates me every time I am
+making dough.
+
+[^6]: Not every pH meter is suitable for measuring dough.
+Please refer to the manual to make sure it is certified for
+measuring the pH of liquid and semi-solid media. To receive
+accurate pH readings further ensure that your pH meter
+is properly calibrated.
+
+[^7]: More on this topic later.
+Just by baking longer and/or shorter, you can control
+the tang of your final baked bread. The longer
+you bake, the less sour the final loaf. The shorter,
+the more acidity is still inside the bread. The resulting
+loaf will be sourer.
+
+[^8]: In fact I have seen many
+    no-knead recipes calling for no initial kneading, but then applying
+    stretch and folds during the bulk fermentation. The time required to do
+    all the folds probably matches the initial kneading time required.
+
+[^9]: In many cases these cavities can
+also happen when a dough does not ferment enough. The crumb is commonly called
+Fool's Crumb. Refer to the later Debugging Crumb Structures chapter of this
+book to learn more about it.
+
+[^10]: Please also refer to [stretch and fold technique] for a
+video showing you how to best perform the technique.
+
+[^11]: You could do it
+just to better understand how the dough feels in your hands at different
+fermentation stages.
+
+[^12]: The same
+applies when making other doughs such as baguette doughs. The floured
+surface will always be downwards facing. The dough is then flipped over
+once for baking.
+
+[^13]: The seam
+    side should now be facing you.  Some bakers like to seal the seam a little
+    more. I did not notice that this improves the dough's strength. As far as
+    I can tell, this only improves the visual appearance of the bottom side of
+    the final loaf.
+
+[^14]: The actual temperature
+depends on the bacteria and yeast you cultivated in your sourdough
+starter.

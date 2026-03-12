@@ -1,0 +1,160 @@
+# Non wheat sourdough
+
+> In this chapter you will learn how to make a basic sourdough bread
+> using non-wheat flour, basically all flour except spelt.
+> The key difference between wheat and non-wheat flour is
+> the quantity of gluten, the former feature a high amount
+> of gluten, while the non-wheat flours do not.
+
+The whole process (see the flowchart) is a lot
+easier: you mix the ingredients and wait for a certain period until the dough
+has reached the level of acidity that you like.  Afterward, you shape the
+dough or pour it into a loaf pan. After a short proofing period, the bread can
+be baked. Due to the lack of gluten development, the final bread will feature
+a denser crumb compared to wheat, as you can see in
+Picture .
+
+
+**Flowchart:** *A visualization of the
+      process to make non-wheat sourdough bread.  The process is much simpler
+      than making wheat sourdough bread. There is no gluten development. The
+      ingredients are simply mixed together.*
+
+
+For non-wheat flours—including rye, emmer, and einkorn—no gluten
+development has to be done, meaning there is no kneading, no
+over-fermentation, and no issues with making flat bread.  In the case of rye
+flour, sugars called pentosans prevent gluten bonds from properly
+forming [rye pentosans].
+
+
+![A sourdough rye bread made using a loaf pan.
+      The rye bread is not scored. The crust typically cracks open during
+      baking.](images/final-bread)
+
+*A sourdough rye bread made using a loaf pan.
+      The rye bread is not scored. The crust typically cracks open during
+      baking.*
+
+
+This chapter will focus on making rye bread. The flour could
+be replaced with einkorn or emmer based on your preference.
+
+The following recipe will make you 2 loaves:
+
+
+The sourdough starter can be in an active or inactive state. If it has been
+at room temperature for a week with no feedings then it will be okay, same
+if it has come right out of the fridge then still it will be no problem.
+The dough is very forgiving.
+
+If you follow the suggested quantities from the recipe you are making a
+relatively wet rye dough. It's so wet that it can only be made using a loaf
+pan. If you want to make a freestanding rye bread, consider reducing the
+hydration to around 60%.
+
+
+![For non-wheat dough the ingredients are mixed
+      together. There is no need to develop any dough strength. This
+      simplifies the whole bread-making process.](images/ingredients)
+
+*For non-wheat dough the ingredients are mixed
+      together. There is no need to develop any dough strength. This
+      simplifies the whole bread-making process.*
+
+
+Mix together all the ingredients with your hands, or opt for a spatula to
+simplify things. Rye flour itself is very sticky and unpleasant to mix by
+hand, the dough will stick a lot to your hands. If you use a stiff starter, it
+could be easier to first dissolve it in the dough's water, then add the other
+ingredients.
+
+
+![Rye flour has a sugar molecule known as pentosan.
+      These pentosans prevent the rye flour from building gluten bonds. As a
+      result the dough never features an open crumb and is always very sticky
+      when hand mixing.](images/sticky-hands)
+
+*Rye flour has a sugar molecule known as pentosan.
+      These pentosans prevent the rye flour from building gluten bonds. As a
+      result the dough never features an open crumb and is always very sticky
+      when hand mixing.*
+
+
+The goal of the mixing process is simply to homogenize the dough, there
+is no need to develop any dough strength. Once you see that
+your sourdough starter has been properly incorporated, your
+dough is ready to begin bulk fermentation.
+
+You can bulk ferment the dough for a few hours up to
+weeks. By extending the bulk fermentation time, you increase
+the acidity the final loaf is going to feature. After around
+48 hours, the acidity will no longer increase. This is because
+most of the nutrients have been eaten by your microorganisms.
+You could let your dough sit for longer, but it wouldn't alter the
+final flavor profile by much.
+
+I recommend waiting until the dough has roughly increased
+by 50% in size. If you are daring, you can taste the dough to
+get an idea of the acidity profile, it will likely taste very sour. However, a
+lot of the acid will evaporate during the baking process, therefore the final
+loaf will not be as sour as the dough you are tasting.
+
+
+![The crumb structure of rye bread. By making a wetter
+  dough, more water evaporates during the baking and thus the
+  crumb tends to be a bit more open. Generally, rye
+  bread is never as fluffy as wheat sourdough bread. The crust
+  of this bread is a bit pale. The crust color can be controlled
+  by baking the bread for a longer period.](images/crumb)
+
+*The crumb structure of rye bread. By making a wetter
+  dough, more water evaporates during the baking and thus the
+  crumb tends to be a bit more open. Generally, rye
+  bread is never as fluffy as wheat sourdough bread. The crust
+  of this bread is a bit pale. The crust color can be controlled
+  by baking the bread for a longer period.*
+
+
+Once you are happy with the acidity level, proceed to dividing
+and shaping your dough.  If you made a drier dough, use as much
+flour as needed to dry the dough a little bit and form a dough ball.
+There is no folding the dough. All you do is tuck it together
+as much as is needed to apply the shape of your banneton.
+
+Shaping might not be possible if you opt for the wetter dough. Carefully spread
+the dough with a spatula in your greased loaf pan, wetting the spatula to make
+this process easier. Spread it until the surface looks smooth and shiny.
+
+For proofing, I recommend waiting around 60 minutes. An extended
+proofing period does not make sense unless you want to further
+increase the dough's acidity. The dough will not become fluffier
+the longer you proof. With the short proofing period, however,
+the dough will become a bit more homogeneous. This way the final
+bread looks more uniform. The proofing period also allows the
+dough to fully extend and fill the edges of the loaf pan. I also
+like to move the dough to the fridge for proofing. The dough stays
+good in the fridge for weeks. You can proceed and bake it at a
+convenient time for you.
+
+Once you are happy with the proofing stage, proceed and bake your dough
+just like you'd normally do, more details can be found in
+the relevant chapter. One challenging aspect
+of using a loaf pan is to make sure that the center part of your
+dough is properly cooked. For this reason, it is best to use a thermometer
+and measure the internal temperature. The bread is ready once the internal
+temperature reaches 92°C (197°F). I recommend
+removing the bread from the loaf pan once it reaches the desired temperature,
+then continue baking the loaf without the pan and steam. This way you achieve
+a great crust all around your loaf, and can bake as long as you like until you
+have achieved your crust color of choice. The darker, the more crunchy
+the crust and the more flavor it offers. If you feel your dough might have
+been overly acidic you can extend the baking time, as the longer you bake, the
+more acidity will evaporate.
+
+This is one of my favorite breads to bake which I eat on an
+almost daily basis. The effort required to make bread like
+this is much lower compared to a wheat-based dough. In some
+cases, I extend the recipe and add additional sourdough discard
+to the dough. You can add as much discard as you like. The resulting
+bread will have a very complex but delicious flavor profile.

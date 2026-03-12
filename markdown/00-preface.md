@@ -1,0 +1,186 @@
+# Preface
+
+
+If there is one food Germany is known for, it is probably bread.
+There are thousands of varieties in Germany,
+and making it has been an integral part of our culture.
+
+My bread journey began during childhood. My mother, being a parent
+of 3, would always use Saturdays to bake a delicious loaf for the family.
+It was a white fluffy sandwich bread, and she made it within one to two hour using store-bought yeast.
+Being a bit more experienced, I now realize it's
+ideal to wait a little while before cutting into your bread, but back then,
+we kids couldn't wait. Mom would cut for us a few slices straight from the oven, and we would
+immediately proceed to pour butter or jam on each slice. Within minutes,
+one kilogram of flour would be consumed. Bread became an integral part of my
+weekly food.
+
+I was lucky that my parents could afford a yearly ski trip to
+Alto Adige in northern Italy. In the small town called Valdaora, we
+would try new restaurants every year, yet always end up in our favorite
+pizza place. The pizzas there were incredible. The dough
+alone was so tasty that we would order just the bread with a
+bit of olive oil and salt.
+
+Of course, my question would always be, "Mom, can we make this at home, too, please?"
+So over the years, we became friends with the owners and would receive
+more and more clues as how to make the perfect pizza dough. There
+are no secret ingredients inside. It's just flour, water, salt, and a bit of yeast.
+How can such a simple combination of ingredients create such an incredibly delicious
+pizza dough? My parents, being creatures of habit, would return every year with us,
+and every year, my interest would grow. At home, Mom and I attempted to replicate
+the recipe. We tried baking on a stone and on a steel. We tried adding oil to the dough and herbs
+to the pizza sauce. We fell into an endless cycle of experiments. However, we never managed
+to get close to the experience we had while on vacation.
+
+Some years passed, and I eventually began my studies in the small German city of Göttingen.
+For the first time, I was faced with shopping for my own bread. It was never
+on my mind to actually start baking it for myself. I would just buy
+a good loaf while shopping at the supermarket. My favorite variety
+was a *Schwarzbrot: Korn an Korn*. It’s a very dark and hearty rye bread
+with added berries and sunflower seeds.
+
+Being a little naïve, I'd never before examined the packaging of what I was
+buying. One day, that changed.  I looked at the label and was shocked. The
+seemingly
+healthy bread consisted of so many other things aside from flour and water.
+The black color was not coming from the flour, but from caramelized sugar.
+The packaging stated it was a sourdough bread, but then why was there additional yeast?
+I thought that if it was really sourdough, it shouldn't require additional
+yeast. I soon
+realized that something was wrong with the bread I was buying.
+I proceeded to check the other supermarket breads, only to discover that they, too,
+contained ingredients I'd never heard of. That was the day I lost trust
+in supermarket bread.
+
+At home, I decided to research the proper way to make bread, and much to my surprise,
+I learned that the recipes for making pizza and bread were actually quite similar, yet
+there were also differences. For example, some recipes would call for fresh yeast, while
+others would call for dry. Diving deep into various online forums and all their many
+discussions, I became even more confused.
+I tried using different flours and different brands, all in both organic and non-organic varieties.
+I realized then that I knew nothing about making bread. Recipes would often contradict each other,
+leaving me further confused. They seemed like little more than a collection of apparently random
+steps to follow. The baking instructions and temperatures too were all
+different…
+
+Meanwhile, having completed my studies, I started work as an engineer.
+We engineers are faced with many challenges. The compiler or runtime is
+always screaming at you with errors, and it's your job to figure out how to fix them.
+It can take hours, sometimes days, just to fix a simple problem. If you want
+to become a software engineer, you have to develop a certain "never-give-up" attitude.
+
+When writing code, software engineers often need to use a set of pre-made routines. These routines have been
+written by other engineers and can then be used to ship code faster.
+This pre-written code is commonly known as *a framework*. In many cases,
+these frameworks are not built by a single person but by engineers from all around the world,
+each of whom can help by improving and changing the source code. Frameworks have made many successful
+businesses possible.
+In most cases, frameworks do exactly what they claim they do. However,
+sometimes you are faced with issues you don't understand. In 99.95%
+of all software bugs, the developer is the issue. Sometimes, however, the framework has a
+bug. That is when the developer must dig deeper to see the *what* and the
+*why* behind what
+the framework is doing. You will need to read other engineers' source code, and you will be forced
+to understand *why* things are happening.
+
+Being unhappy with what I was baking, my engineering mindset took over, and
+I had to do my own deep dive to understand what was going on. Much to my
+surprise, however, none of the recipes I'd encountered would tell me
+*why* I should use amount X of water and amount Y of flour, or
+*why* exactly I should use fresh yeast over dry yeast. Why should I slap
+my dough while kneading it on the counter? Why is a stand mixer better than
+kneading by hand? Why should I let the dough sit for this long?  Why is
+steaming the dough during baking important? Do I really need to get myself an
+expensive Dutch oven to bake bread?  The problem compounded when I started
+reading about sourdough. It all sounded like black magic. Why were some
+sourdoughs made from fruits, while others were made from flour?  Why should
+one recipe use wheat while another used rye or spelt? How often should the
+sourdough be fed? The questions I had then could have filled 20 pages. I was
+confused, but I became even more determined to learn how decent bread should
+be made at home.
+
+The feedback I received from friends helped me to improve with each
+iteration of homemade bread. Compared to coding, where you sometimes have to wait months
+for this feedback, bread making is much more direct. Plus, you can eat your successes
+(and failures!) And, much to my surprise, even those failures started tasting better than
+most store-bought breads. Eating a homemade bread that takes you hours to make allows you
+to develop a different relationship with your food, and baking bread from scratch with my
+bare hands was a welcome change after hours of working on the computer.
+
+I continued learning about the process of fermentation and various techniques of bread making.
+I approached the topic of sourdough in a manner similar to software, and after years of
+researching and documenting my progress, I decided it was time to share that progress with the
+world.
+When working on software projects, it is important to see their history and how the source
+code changes over time. This way, you can easily jump back to previous versions. This was
+the perfect tool for documenting my recipes, because they, too, would change with each
+subsequent iteration. Much to my surprise, my open source work on sourdough was appreciated
+by other engineers, and the project became popular on the website GitHub, originally built to
+share open source software.
+
+Now, when baking great bread, you also need to learn certain techniques. I figured it would be
+easier to share these techniques in video form. Thus, my YouTube channel was born. I chose
+the name `The Bread Code` to capture my engineering-oriented approach to bread. It took some
+time to get it right, but after choosing more engaging thumbnails and titles for
+the videos I made, the channel started gaining viewers.
+Finally, three years later, I dedicate two days each week to follow my bread baking passion, while
+the other three days I continue to work as a software engineer, writing code on a day-to-day
+basis.
+
+My bread days fill me with both joy and passion. To me, there is nothing better than seeing
+how many people have made amazing bread thanks to my tips and explanations. The community has
+continued to grow, spawning many interesting discussions and ideas surrounding the topic of
+bread making. There is always something new to learn, and I feel that even now I am just barely
+scratching the surface with what I know and teach. Would you ever have imagined that fruit
+flies are like bees and are part of the wild yeast's success story? I made a video where
+I tried to cultivate wild yeast spores coming from fruit flies in order
+to bake bread. It worked; the bread turned out amazingly well and even tasted good! These kinds of
+experiments spark my natural interest. Conducting them and seeing how other people share my
+interest makes me incredibly happy.
+
+The problem with running a YouTube channel is that all the information
+you see is filtered and then provided to you through an algorithm. I am concerned
+with how algorithms are shaping modern information, because they tend to
+put users into certain categories where they will then only see news related to
+those same fixed categories. A key metric determining visibility of your channel is how many
+people have clicked on a video after it's been shown, and the content you create
+is not even shown to every subscriber of your channel. If the algorithm determines the video
+is not engaging enough, your content starts to decay in YouTube's nirvana. Even if your video
+goes viral, the algorithm will stop showing it once engagement rates with new users goes down,
+and older videos fade over time as the decay punishment factor increases. I know, because
+I have developed similar algorithms myself as a software engineer.
+
+I've since decided to take some time off from the algorithm cycle to work on something more
+long term and meaningful. My mission has always been to share my knowledge with as many people
+in the world as possible. That's also why my content has been provided in English rather than
+German. After discussions with members of the community, I figured that writing a book could
+help me achieve that goal. Most of the books that exist today are collections of recipes. My
+idea, however, is to provide you with a deeper foundation of knowledge that you can use to
+follow other recipes.
+In software terms, this would be a *bread framework*.
+
+It is my goal for this book to help everyone facing issues with flour, fermentation, baking,
+and more. It should provide a detailed understanding as to why certain steps are necessary
+and how to adapt them when things go wrong while making bread.
+It is my desire for this knowledge to be accessible to everyone around the world, regardless
+of budget, and as such, I do not want to charge for the book. That's why I've decided to make
+it open source and have asked the community to support my work with
+donations. The community's feedback has been amazing so far, and
+I've already raised much more money than initially expected. The digital version of this book
+will always remain free. There is also a hardcover version of the book available for purchase.
+You can read more details here: https://breadco.de/physical-book
+
+In this book, I will try to be as scientific as possible. I in no way claim, however, that
+it will itself be a work of science. I have conducted several experiments that I will write
+about here, but to truly call this science, you would probably need to repeat the same experiment
+a thousand times in a lab environment, which I have not done. I will do my best, however, to provide
+scientific references where possible and to clearly distinguish between facts and personal opinion.
+
+I hope you have fun reading this and that you learn more about the fascinating world of bread
+making, and it is my sincere wish that this work provides you with the solid toolchain that I wish
+I'd had access to when starting my own journey with bread.
+
+Thank you.
+
+Hendrik

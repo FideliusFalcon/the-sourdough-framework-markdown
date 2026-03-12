@@ -1,0 +1,317 @@
+# The history of sourdough
+
+> We will start this book by briefly talking about the long history of
+> sourdough bread from ancient time, and how people used similar process for
+> other food like beer. The discovery of yeast and how, together with
+> machine development, revolutionized bread making.  More recently
+> communities formed around sourdough and home baking, trying to relearn
+> lessons from the past.
+
+The story of sourdough bread begins in prehistoric oceans. These oceans were the
+birthplace of all life on Earth. To better envision the vast history of
+our planet, lets create a timeline in one year/365 days. On this scale,
+January 1 signifies Earth's
+formation 4.54 billion years ago. Midnight on December 31 is the present.
+Each day represents roughly 12 million years. This technique simplifies the
+complexity of time but also renders the extraordinary expanse of our planet's
+history into a more graspable timeframe. We humans, are in fact a recent
+addition to our planet, so young that we made our first appearance on
+the evening of December 31.  It seems that humans managed to arrive just
+in time to join the celebration at the end of the year.
+
+On March 25, the oceans birthed the first single-celled bacteria. In these
+waters, another single-celled life form, *archaea*, also thrived. These
+organisms inhabit extreme environments, from boiling vents to icy waters.
+
+
+*Timeline of significant events
+    starting from the first day of Earth's existence,
+    divided into months, and extending to the present day,
+    marked at midnight. This visualization shows the pivotal steps
+    of life and sourdough on earth.*
+
+
+Whoever comes first, bacteria or archaea, remains debated. For three
+months (or approximately 1.1 billion years), these life forms dominated
+the oceans. Then, on June 25 in a highly unlikely event, an archaeon consumed a bacterium.
+Instead of digesting it, they formed a symbiotic relationship. This led to the
+first nucleated organisms, marking an evolutionary milestone. This event lead
+to the development of plants, fungi and also ultimately humans.
+
+Life stayed aquatic for another three months.
+On October 4, bacteria first colonized land. By October 15, the
+first aquatic fungi appeared. They adapted and, by November 24, had colonized
+land.
+
+By December 3, yeasts emerged on land. This laid groundwork for bread-making.
+Jump 140 million years to December 14, and dinosaurs arose. Just a couple
+of days after their appearance on December 17 the super continent Pangea
+started to rift apart, reshaping the continents into their current form.
+The dinosaurs reigned until December 29 when they faced extinction.
+Another 25 million years later, or our timeline's 2 days after the dinosaur
+extinction, humans appeared.
+
+A few hours later after the arrival of humans, a more subtle culinary
+revolution was unfolding. By 12,000 BC, just 5 seconds before our
+metaphorical midnight, the first sourdough breads were being baked in ancient
+Jordan. A blink of an eye later, or 4 seconds in our time compression,
+Pasteur's groundbreaking work with yeasts set the stage for modern
+bread-making. From the moment this book began to take shape to your current
+reading, only milliseconds have ticked by [Yong 2017].
+
+Now delving deeper into the realm of sourdough, it can likely be traced to aforementioned
+Ancient Jordan [jordan bread]. Looking at the earth's timeline sourdough
+bread can be considered a very recent invention.
+
+
+*Timeline of significant discoveries and
+  events leading to modern sourdough bread.*
+
+
+The exact origins of fermented
+bread are, however, unknown. One of the most ancient preserved
+sourdough breads has been excavated in Switzerland [switzerland bread].
+
+
+![An ancient Einkorn flatbread. Note the
+      dense crumb structure.](images/einkorn-crumb)
+
+*An ancient Einkorn flatbread. Note the
+      dense crumb structure.*
+
+
+Another popular story is that a lady in Egypt was making
+a bread dough close to the Nile river. The lady forgot the
+dough and at her return a few days later, she noticed that the dough had
+increased in size and smelled funky. She decided to bake
+the dough anyway and was rewarded with a much
+lighter, softer, better tasting bread dough. From that day
+on she continued to make bread this way [egyptian bread].
+
+Little did the people back then know that tiny microorganisms
+were the reason the bread was better. It is not clear when
+they started using a bit of the dough from the previous
+day for the next batch of dough. But by doing so, sourdough
+bread making—as we know it today—was born: Wild yeast
+in the flour and in the air, with bacteria
+starting to decompose the flour-water mixture.
+The yeast makes the dough fluffy,
+and the bacteria primarily creates acidity. The different
+microorganisms work in a symbiotic relationship. Humans
+appreciated the enhanced airy structure and slight acidity
+of the dough. Furthermore, the shelf life of such bread
+was extended due to the increased acidity.
+
+Quickly, similar processes were discovered when brewing beer
+or making wine. A small tiny batch of the previous production
+would be used for the next production. In this way, humans created
+modern bread yeasts, wine yeasts, and beer yeasts [egypt beer].
+
+Over time with each batch, the yeasts and bacteria
+would become better at consuming whatever they were thrown at.
+By feeding your sourdough starter, you are selectively breeding
+microorganisms that are good at eating your flour. With
+each iteration, your sourdough knows how to better ferment the flour
+at hand. This is also the reason[^1] why more mature sourdough starters sometimes tend to
+leaven doughs faster [review of sourdough starters].  The sourdough in
+itself is a symbiotic relationship, but the sourdough
+also adapted to humans and formed a symbiotic relationship with us.
+For food and water, we are rewarded with delicious bread. In exchange,
+we shelter and protect the sourdough. Spores from the starter
+are spread through aerial contamination or insects like fruit flies.
+This allows the sourdough starter to spread its spores even
+further all around the world.
+
+Evidence suggests early grain grinding in northern Australia around
+60,000 BC, notably at the Madjedbebe rock shelter in Arnhem
+Land [aboriginal grinding stones].  However, a more significant
+advancement occurred later, as documented by the ancient Greek geographer
+Strabo in 71 BC\@.  Strabo's writings described the first water-powered
+stone mill, known as a *gristmill*. These mills advanced flour production
+from a few kilograms up to several metric tons per day [history mills].
+
+These early mills featured horizontal paddle wheels, eventually termed
+*Norse wheels* due to their prevalence in Scandinavia.  The paddle wheels
+connected to a shaft, which, in turn, linked to the central runner stone for
+grinding. Water flow propelled the paddle wheels, transferring the grinding
+force to the stationary *bed*, typically a stone of similar size and
+shape. This design was straightforward, avoiding the need for gears. However,
+it had a limitation: the stone's rotation speed relied on water volume and
+flow rate, making it most suitable for regions with fast-flowing streams,
+often found in mountainous areas [mills scandinavia].
+
+In the year 1,680, a remarkable scientist by the name of
+Antonie van Leeuwenhoek introduced a groundbreaking innovation that would
+forever alter our understanding of the microscopic world and ultimately bread
+making.  Van Leeuwenhoek, a master of lens craftsmanship, possessed an
+insatiable fascination with realms invisible to the naked eye. His pioneering
+work birthed the first modern microscope.  What set Van Leeuwenhoek apart was
+the exceptional quality of his lenses, capable of magnifying tiny
+microorganisms by an astounding factor of 270.  Driven by an unrelenting
+curiosity to unveil the unseen, he embarked on a journey of exploration. He
+scrutinized flies, examined lice-infested hair, and ultimately turned his gaze
+toward the tranquil waters of a small lake near Delft.
+
+In this serene aquatic habitat, he made astonishing observations, discovering
+algae and minuscule, dancing creatures hitherto hidden from human perception.
+Eager to share his revelatory findings with the scientific community,
+Van Leeuwenhoek faced skepticism, as it was difficult to fathom that someone
+had witnessed thousands of diminutive, dancing entities—entities so tiny that
+they eluded the human eye.
+
+Undeterred by skepticism, he continued his relentless pursuit of the unseen,
+directing his lens towards a brewer's beer sludge. In this obscure medium,
+Van Leeuwenhoek made history by becoming the first human to lay eyes upon
+bacteria and yeast, unraveling a previously concealed world that would
+revolutionize our understanding of microbiology [Yong 2017 Leeuwen].
+
+At the same time brewers would start to experiment with utilizing the muddy
+leftovers of the beer fermentation to start making doughs. They would notice
+that the resulting bread doughs were becoming fluffy and compared
+to the sourdough process would lack the acidity in the final product.
+A popular example is shown in a report from 1,875. Eben Norton Horsford
+wrote about the famous *Kaiser Semmeln* (Emperor's bread rolls).
+These are essentially bread rolls made with brewer's yeast instead
+of the sourdough leavening agent. As the process is more expensive,
+bread rolls like these were ultimately consumed by the noble people
+in Vienna [vienna breadrolls].
+
+Industrialization of the grist milling process, starting in the late
+18th century with Oliver Evans (1,785) and his mill
+designs for continuous hands-off flour production [evans mill], and
+evolving to steam-powered mills, made possible significant advancements in
+bread production.
+
+
+![A bread made over the stove without an oven.](images/sourdough-stove)
+
+*A bread made over the stove without an oven.*
+
+
+The biggest advancement of industrial bread making happened in 1,857.
+The French microbiologist Louis Pasteur discovered the process of alcoholic
+fermentation. He would prove that yeast microorganisms are the reason for
+alcoholic fermentation and not other chemical catalysts. He continued with his
+research and was the first person to isolate and grow pure yeast strains.
+Soon later in 1,868 the Fleischmann brothers Charles and Maximilian were
+the first to patent pure yeast strains for bread making. The yeasts offered
+were isolated from batches of sourdough. By 1,879 the machinery was built
+to multiply the yeast in large centrifuges [fleischmann history].  The
+pure yeast would prove to be excellent and turbocharged at leavening bread
+doughs. What would previously take 10 hours to leaven a bread dough could now
+be done within 1 hour.  The process became much more efficient. What
+ultimately made making large batches of dough possible, was the invention of
+the electrical kneader.  Rufus Eastman, an American inventor, is often
+credited with an important advancement in mixer technology. In 1,885, he
+received a patent for an electric mixer with a mechanical hand-crank
+mechanism.  This device was not as advanced or as widely adopted as later
+electric mixers, but it was an early attempt to mechanize mixing and kneading
+processes in the kitchen using electricity.  Eastman's invention represented
+an important step in the development of electric mixers, but it wasn't as
+sophisticated or popular as later models like the KitchenAid mixer. The
+KitchenAid mixer, introduced in 1,919, is often recognized as one of the
+first widely successful electric mixers and played a significant role in
+revolutionizing kitchen appliances for home
+cooks [first mixer] [kitchenaid history].
+
+During World War II the first packaged dry yeast was developed. This would
+ultimately allow bakeries and home bakers to make bread much faster and more
+consistently. Thanks to pure yeast, building industrial bread making machines
+was now possible. Provided you maintain the same temperature, same flour and
+yeast strains fermentation became precisely reproducible. This ultimately led
+to the development of giga bakeries and flour blenders. The bakeries demanded
+the same flour from year to year to bake bread in their machines.  For this
+reason, none of the supermarket flour you buy today is single origin.  It is
+always blended to achieve exactly the same product throughout the years.
+
+Modern wheat, specifically the high-yielding and disease-resistant varieties
+commonly grown today, began to be developed in the mid-20th
+century. This period is often referred to as the *Green Revolution.*
+
+One of the key figures in this development was American scientist Norman
+Borlaug, who is credited with breeding high-yield wheat varieties,
+particularly dwarf wheat varieties, that were resistant to diseases and could
+thrive in various environmental conditions. His work, which started in the
+1940s and continued through the 1,960s, played a crucial role in
+increasing wheat production worldwide and alleviating food
+shortages [green revolution].
+
+As fermentation
+times sped up, the taste of the final bread would deteriorate.
+The sprouting process induced by certain enzymes is essential
+to developing a fluffier texture and better tasting crust. This
+can't be indefinitely sped up. Soon bakeries would start
+to introduce additional enzymes to achieve similar properties
+to sourdough bread in yeast-based doughs. Sourdough almost completely
+vanished from the surface of the Earth. Only a handful
+of true nerds would continue making bread with sourdough.
+
+Suddenly people started to talk more often about celiac disease
+and the role of gluten. The disease isn't new; it has first
+been described in 250 AD [coeliac disease]. People
+would note how modern bread has much more gluten compared
+to ancient bread. The bread in ancient times probably was much flatter.
+The grains over time have been bred more and more towards containing a higher
+amount of gluten. Gluten is a protein that gives modern
+bread its typical soft fluffy crumb structure. The
+gluten proteins bind together once activated with water.
+Throughout the course of the fermentation, CO₂ is trapped
+in this protein matrix. The tiny created chambers expand
+during the baking process. As the dough gelatinizes while
+being heated, the structure is fortified. This makes the bread appear
+soft and fluffy when tasting it. Similar to drinking raw cow's milk,
+your immune system might react to the consumed proteins.
+There is gluten intolerance
+and celiac disease. When people say they don't handle
+gluten well, it's mostly a gluten intolerance they describe.
+Some people describe similar issues when consuming
+too much lactose. If you eat a long-fermented cheese
+however, most of the lactose has been fermented by
+the tiny microorganisms. People would investigate and
+note how sourdough bread can typically be handled better
+compared to plain, fast-made factory bread. The
+reason for this is that enzymes take time to work the dough.
+Gluten is a storage protein of flour. Once
+sprouting is activated by adding water, the protease
+enzyme starts to convert the gluten into tinier amino acids
+that are required for sprouting. Over time you are effectively
+losing gluten as it's naturally broken down. Furthermore,
+traditionally lactic acid bacteria would start to decompose
+the flour-water mix. Almost everything is recycled in nature.
+Part of their diet is to consume the proteins in the dough.
+Modern bread is faster and no longer has lactic acid bacteria.
+Both factors together mean that you are consuming products
+with a much higher gluten value compared to ancient times
+when natural fermentation was used [raffaella di cagno].
+
+During the California Gold Rush, French bakers brought the sourdough
+culture to Northern America. A popular bread became the
+San Francisco sourdough. It's characterized by its unique
+tang (which was previously common for every bread). It
+however remained more of a niche food while industrial bread
+was on the rise. What really expedited
+the comeback of sourdough was the 2,020 COVID-19 pandemic.
+Flour and yeast became scarce in the supermarkets. While
+flour returned yeast couldn't be found. People started
+to look for alternatives and rediscovered the ancient
+way of making sourdough bread. Soon many realized
+that making sourdough bread is more complex than modern
+yeast-based bread. You need to maintain a sourdough starter
+and have it in ideal shape to properly ferment your dough.
+Furthermore, compared to a yeast-based dough, you can't just
+punch the dough down and let the fermentation continue.
+You can overferment your dough, resulting in a sticky
+dough mess. This complexity led to many bakers looking
+for help and many thriving communities formed around
+the topic of homemade bread.
+
+When interviewing Karl de Smedt (owner of the Sourdough
+Library) he said something that changed my way of thinking
+about bread: ``The future of
+modern bread is in the past [interview karl de smedt].''
+
+---
+
+[^1]: It is crazy if you think about it.
+People have been using this process despite not knowing what was going on for
+thousands of years!

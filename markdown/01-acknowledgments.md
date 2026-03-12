@@ -1,0 +1,22 @@
+# Acknowledgments
+
+This book would not have been possible without your help.
+With all your donations I have been able to focus on finishing
+this book. Your continuous support allows me to focus
+on improving this book even more.
+
+Furthermore many of you have contributed and improved the
+instructions, fixed spelling mistakes and/or provided
+feedback on the content. Each of you has made this book
+better.
+
+By providing this book free of charge,
+we can enable more people around the world to bake delicious sourdough
+bread at home.
+
+Thank you very much for your support!
+
+
+**Big shout-out to all the initial supporters who helped launching this
+project:
+**
